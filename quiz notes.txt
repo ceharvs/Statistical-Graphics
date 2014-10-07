@@ -1,0 +1,49 @@
+need to know weber's law and steven's law
+need to know how to do area and volume
+perceptual grouping methods.  - proximity - scatterplots and see clusters
+we tend to see patterns,  proximity allows us to see similarity.  
+We want to look at similar size and shape, 
+enclosement - put boxes around things to show things, enclosure dominates when you see perceptual groups
+attachment - if you connect lines they are thought of as a group,  this can replace enclosure.  
+
+There are 3 kinds of color scales - q scale - equal intensity.  different hues.  For people that aren't color blind, we can tell apart hues easily.  We can find categories, good for continuous variables.  General color is a poor encoding for continuous variables.  This is okay for categories.  Colors are good if you divide continuous variables into categories.
+Grey scale - might not actually be grey, but this is a reasonable scale to do on a continuous scale.
+Diverging - Vlue - White - Red - Good when there is some kind of natural middle.  
+
+We need to know how to write functions, know the four basic args to probability functions.  
+
+rnorm(number of sameple size
+rnorm(100, 
+pnorm(quantile, 
+* can we think of p norm as a cdf
+qnorm(probabilities, 
+dnorm(quantiles, 
+
+dnorm(x, mean = 0, sd = 1, log = FALSE)
+pnorm(q, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
+qnorm(p, mean = 0, sd = 1, lower.tail = TRUE, log.p = FALSE)
+rnorm(n, mean = 0, sd = 1)
+Arguments
+
+x, q	
+vector of quantiles.
+
+p	
+vector of probabilities.
+
+n	
+number of observations. If length(n) > 1, the length is taken to be the number required.
+
+mean	
+vector of means.
+
+sd	
+vector of standard deviations.
+
+log, log.p	
+logical; if TRUE, probabilities p are given as log(p).
+
+lower.tail	
+logical; if TRUE (default), probabilities are P[X ≤ x] otherwise, P[X > x].
+
+We should also be able to do a little bit more with writing functions.  
