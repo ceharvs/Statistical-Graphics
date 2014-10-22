@@ -25,14 +25,14 @@
 #     best subset selection
 
 # Due:
-# Plot from 2.1   
+# Plot from 2.1 and 2.3  
 
 # 0. Setup
 
 library(ISLR)
 library(leaps)
 library(lattice)
-# library(GGally)  for new year additions. 
+# library(GGally) for next year. 
 
 # 1. Missing data remove and quick looks at the Hitters data
 
@@ -59,16 +59,18 @@ sum(is.na(Hitters)) # quick check
 # We will only look at the data briefly
 # here and focus on subset selection
     
-# We can note the categoral variables 
-
+windows(width=7,height=7)
 splom(Hitters)
 
-# Removing the provides a little 
+# We can note the categorical variables
+# Removing the categorical variables provides a little 
 # more resolution for remaining the variable.  
 
 splom(Hitters[,-c(14,15,20)])
+
 # We see some functional relationships.  
 # The AtBat and Hits are related
+#
 # All of the career statistics variables
 # are related.  
 
@@ -79,12 +81,13 @@ splom(Hitters[,-c(14,15,20)])
 # subsets counting the null subset. The well-
 # designed algorithm can identify non-competitive
 # subsets of variables so does not have to check
-# all  2**p combinations.   
+# all 2**p combinations.   
 
 regfit.full=regsubsets(Salary~.,Hitters)
 summary(regfit.full)
 
-2.1 Redesigning the table
+# 2.1 Redesigning the table
+# 
 # The table is a candidate for redesign
 # We typically can't see the whole table
 # layed out in rows and columns in the R 
@@ -102,10 +105,13 @@ summary(regfit.full)
 # think about reordering the used ones. 
 # 
 # Can we find the needed information
-# in the regfit.full object to make a plot
-# leaps is on old R function. Results
-# were often returned as a list
-# 
+# in the regfit.full object to make a plot?
+# The script below does and construct a plot.
+# Fur 
+
+# leaps is on old R function? Results
+# were often returned as a list.  As
+# indicated below
 
 is.list(regfit.full)  # Yes!  
 names(regfit.full) # Component names
@@ -158,19 +164,31 @@ varNam[ varInd[subs(3)] ]
 # Four variable model
 varNam[ varInd[ subs(4)] ]
 
-# Below we turn the ISLR table 
-# into a plot R that also
+# Below we turn the ISLR output
+# table into a plot that also
 # includes the intercept.
-# This use R base level graphics
+# 
+# The script below uses R base
+# level graphics 
 
-# Set the scales
+# We the x  and y scales.
 # By default R will expand these
+# these a bit before they are used.
+
+## Run
 
 rx = c(0,8) 
 ry = c(1,20)
 
+# Open a graphics device.  
+# The RStudio graphics device
+# does not handle a few ways of
+# of adding to a plot. 
+
+windows(width=6,height=6)
+ 
 # Set the plot margins in inches
-#   bottom, left, top, right
+# bottom, left, top, right
 # and save the previous setting 
 oldPar <- par(mai=c(.2,1.8,1.1,.2))
 
@@ -183,28 +201,30 @@ plot(rx,ry,type='n',axes=FALSE,xlab='',
 for (j in 0:n){
    points(rep(j,j+1),21-varInd[subs(j+1)],pch=21,bg="red",cex=1.5)
    abline(h=c(4.5,8.5,12.5,16.5),col=gray(.8)) 
+   abline(v=c(2.5,5.5), col=gray(.8))
 }
-
-# draw the plot border
-box()
+box()  #  draw the plot border
 
 # put labels in the plot margins
 mtext(varNam,side=2,at=20:1,adj=1,line=.3,las=1)
 mtext(as.character(0:8),at=0:8, side=3)
 
-# reset the device plot margon 
+# reset the device plot margin 
 par(oldPar)
 
-# A redesign could reorder selected
-# variables and omit the rest.
+## End
+
+# A redesign could omit rows with
+# unused variables and 
+# reorder used variables.
 # The ordering might be based
 # on first appearance or frequency
 # of appearance and tie breaking
 # might be handled using the
 # the original variable order. 
 #
-# The rows are perceptually grouped
-# by drawing light gray horizontal
+# The rows and columns are perceptually
+# grouped by drawing light gray lines
 
 # 2.2  Best subset for 19 variables
 #      and model evaluation criteria
@@ -220,7 +240,7 @@ reg.summary$rsq
 model10.MSE = reg.summary$rss[10]/nrow(Hitters)
 
 # 2.3 Four plots per page showing 4 criteria
-#     and with dots indicated best models 
+#     and with dots indicating best models 
 #
 # Uses R base level graphics
 # mfrow allocates space putting plot
@@ -230,6 +250,7 @@ model10.MSE = reg.summary$rss[10]/nrow(Hitters)
 # add points to the currently 
 # active plot
 
+windows(width=6, height=6)
 par(mfrow=c(2,2))
 # 1st row 1st  column
 plot(reg.summary$rss,xlab="Number of Variables",ylab="RSS",type="l")
@@ -253,25 +274,32 @@ loc
 points(loc,reg.summary$bic[loc],col="red",cex=2,pch=20)
 
 # Putting multiple panels in a plot with mfrow() was convenient
-# but often wastes a lot of space. The y-axis resolution and
-# scale labels are unless the plot is made very tall.
+# but often wastes a lot of space.  If the plot window is
+# the tall the the y-axis resolution may be small y-axis tick labels
+# many not be readable.  
 # 
 # There is common x-axis.  There could be 4 vertically 
 # aligned panels.  Yes, this is a candidate for redesign.
-# There are outer layout options such latout() in R
-# and my panel Layout functions in a file 
-# that sourced.
+# There are outer layout options such layout() in R
+# and my panelLayout() functions in the panelLayout.r 
+# file that was sourced.  
 
-# The minimum BIC model has a mean and six variables.
-# The adjust R-squared is not
-# but not that quickly increaseing so the model is  a reasonable, 
-# We can take a look at the coeefficients
+# The minimum BIC model has a minimun at six variables and
+# fairly often the preferred criterion.  
+# The adjust R-squared as a minimum at 11 variables
+# but is not increasing that quickly after six variables
+# it seems reasonablle to consider a six variable models
+# and a take a look at the coeefficients
 
 coef(regfit.full,6)
 
+# 2.4 A plot showing the models from best to worst for
+#     a given criterion. Plot size matters
+#     for readability.   
 
-# The following plot with 4 panels look really bad!
-p1ot(regfit.full,scale="r2")
+windows(width=6,height=6)
+par(mfrow=c(2,2))
+plot(regfit.full,scale="r2")
 plot(regfit.full,scale="adjr2")
 plot(regfit.full,scale="Cp")
 plot(regfit.full,scale="bic")
@@ -279,36 +307,29 @@ plot(regfit.full,scale="bic")
 # We can show the plots individually to see the 
 # the intended content.
 par(mfrow=c(1,1))
+plot(regfit.full,scale="bic",main="BIC")
 
-# If there is only one active device
-# Turning off the active device will make
-# a new one active with default parameters
-# available when needed.
+# The plot is best thought of as a row and
+# column matrix.  The top row is the best model. 
+# It has six variables. The row label gives the
+# rounded bic value for the model. The black
+# rectangles in the row are over the variables
+# in the models as listed at the bottom
+# of the plot.
 #
-# dev.off()
-
-# The plots are still bad and beg for redesign.
-plot(regfit.full,scale="r2")
-plot(regfit.full,scale="adjr2")
-plot(regfit.full,scale="Cp")
-plot(regfit.full,scale="bic")
-
-# A redesign might skip the r2 plot
-# and add three panels of curves
-# above the transposed red dot plot
-# shown above. The above plots
-# show diminishing returns for adding
-# more variables.
-# 
-# The gray scale encodingfor a continuous
-# variable is inferior.  
-
+# The next row is next best bic model
+# It has eight variables.
+ 
+# A script to be added to the folder
+# will show a redesign plot the
+# use qplot.  
+ 
 # 3. Forward and Backward Stepwise Selection
 
 # The message here is the forward, backward
-# and best subset selectiond don't always
-# on the same variables for a give number
-# of variables.  
+# and best subset selection don't always
+# pick the same variables for a give number
+# of selected variables.  
 
 regfit.fwd=regsubsets(Salary~.,data=Hitters,nvmax=19,method="forward")
 summary(regfit.fwd)
@@ -318,17 +339,23 @@ coef(regfit.full,7)
 coef(regfit.fwd,7)
 coef(regfit.bwd,7)
 
-# We could modify the earlier red dot plot
-# to include all the models and use
-# their colors of dots for best, forward
-# and backward models of the given number of
-# variables. The dot  would be offset 
-# to avoid overplotting.
+# We can quick see 
+# variable that were not 
+# common to all three models   
+namBest <- names(coef(regfit.full,7)),
+namBwd <- names(coef(regfit.bwd,7)),
+namFwd <- names(coef(regfit.fwd,7))))
 
+match(namBwd,namBest) # 3 differ
+match(namFwd,namBest) # 3 differ
+match(namBwd,namFwd)  # 1 differs
+   
 # 4. Split cases into training and test sets
 #    Model the training set and use coefficents
 #    to predict test set values and obtain
 #    the MSE using the observed- predicted values. 
+
+## Run
 
 set.seed(1)
 train=sample(c(TRUE,FALSE), nrow(Hitters),replace=TRUE)
@@ -337,15 +364,17 @@ test=(!train)
 # Find the best training set models
 regfit.best=regsubsets(Salary~.,data=Hitters[train,],nvmax=19)
 
-
 # Obtain the test set design matrix 
 test.mat=model.matrix(Salary~.,data=Hitters[test,])
 
 # Reserve storage the mean square errors
 # using train set cooefficients for 
-# for test set datg
+# for test set data
 val.errors=rep(NA,19)
 
+## End___________________________
+
+## Run
 # For each number of variables
 for(i in 1:19){
   # obtain the training set coefficients
@@ -365,8 +394,11 @@ round(coef(regfit.best,loc), 3)
 
 val.errors[10]
 
+## End___________________
 
 # 4.1 Writing a prediction function
+
+## Run
 
 predict.regsubsets=function(object,newdata,id,...){
   form=as.formula(object$call[[2]])
@@ -375,6 +407,8 @@ predict.regsubsets=function(object,newdata,id,...){
   xvars=names(coefi)
   mat[,xvars]%*%coefi
 }
+
+## End
 
 # 4.2 10 fold cross validation
 #     best subset selection
@@ -385,6 +419,9 @@ predict.regsubsets=function(object,newdata,id,...){
 #
 # Remember this was best for the
 # Cp criterion
+
+## Run
+
 regfit.best=regsubsets(Salary~.,data=Hitters,nvmax=19)
 coef(regfit.best,10)
 
@@ -416,6 +453,7 @@ loc
 # better than Model 10. The difference
 # in the forth digit. I would be inclined
 # to go with the simpler model.  
+
 mean.cv.errors[10]
 mean.cv.errors[11]
 
@@ -425,8 +463,16 @@ mean.cv.errors[11]
 # from much earlier. 
 
 model10.MSE
+
+## End
+
 # Cross validation helps to tell an overfitting story.  
 
 # The authors go with model 11 as best 
+
+## Run
+
 reg.best=regsubsets(Salary~.,data=Hitters, nvmax=19)
 round(coef(reg.best,loc), 3)
+
+## End

@@ -1,0 +1,46 @@
+Reference_polygons hsa_states.txt
+Region_polygons hsa.txt
+Region_data lungRainPov_wm6574.csv
+Left_label1 White Males Ages 65-74
+Left_label2 1988-1992
+Left_label3 Regions: Health Service Areas
+Right_label1 Weight: Population
+Right_label2 Statist. Med. 2000;19:2521-2538
+Right_label3 Contact Dan Carr: dcarr@gmu.edu
+
+Lat_min 0.1
+Lat_max 3.4
+Lon_min -2.5
+Lon_max 2.4
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 190 190 190
+reference_region_outline_colors 50 50 50
+Panel_color 229 255 255
+Back_color 255 255 215
+
+Low_color 0 100 255
+Mid_color 170 170 170
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 254
+
+Slider_color 229 255 255
+Slider_back_color 255 255 215
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 2 3 4 5
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 63.69 892.86 375.3370387243736 443.33275626423693 Lung Cancer Mortality Rate (Deaths Per 100,000)
+column_3 1.0 3.045 78.96 28.9 44.73  Annual Precipitation (Inches)
+column_4 1.0 1.4 24.3 5.0 8.1 Percent Below Poverty Level
+column_5 1.0E-6 0.0 0.0 0.0 0.0 Population

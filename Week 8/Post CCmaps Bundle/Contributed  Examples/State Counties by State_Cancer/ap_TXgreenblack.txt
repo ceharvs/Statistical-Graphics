@@ -1,0 +1,46 @@
+Reference_polygons TX_boundary.txt
+Region_polygons TX_counties.txt
+Region_data TX_mortrisk.csv
+Left_label1 Age-Adjusted Mortality Rates
+Left_label2 Time:  1996-1999
+Left_label3 Regions: Counties
+Right_label1 Weight: Population
+Right_label2 November 2002
+Right_label3 Contact Dan Carr, dcarr@gmu.edu
+
+Lat_min 2554381.0
+Lat_max 3788225.0
+Lon_min -230885.0
+Lon_max 1682941.0
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 150 150 150
+Panel_color 229 255 255
+Back_color 240 249 176
+
+Low_color 153 255 153
+Mid_color 255 153 0
+High_color 102 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 254
+
+Slider_color 229 255 255
+Slider_back_color 229 255 255
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 2 16 18 3
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 10.0 48.7 20.76692913385827 25.94724409448819 Breast Cancer Mortality Rate Per 100,000
+column_3 1.0 0.0 0.0 0.0 0.0 Population
+column_16 1.0 0.245 0.389 0.2858188976377953 0.31681102362204727 Obesity Fraction
+column_18 1.0 0.375 0.799 -1.0E-8 0.799 Fraction Mammogram In Last Three Years

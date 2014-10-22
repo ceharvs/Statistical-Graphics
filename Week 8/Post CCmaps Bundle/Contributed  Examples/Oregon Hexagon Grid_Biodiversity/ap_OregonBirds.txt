@@ -1,0 +1,43 @@
+Reference_polygons oregon.txt
+Region_polygons oregon_hex.txt
+Region_data OregonBirds.csv
+Left_label1 Native Breeding Species
+Left_label2 Oregon, USA, 650 sq km hexagons
+Left_label3 Data from NatureServe
+Right_label1 Weight: Equal Weights
+Right_label2 November 2001
+Right_label3 Contact:  White.Denis@epamail.epa.gov
+
+Lat_min 13500.0
+Lat_max 510000.0
+Lon_min -420000.0
+Lon_max 420000.0
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 130 130 130
+Panel_color 240 240 254
+Back_color 210 210 210
+
+Low_color 243 243 122
+Mid_color 254 128 0
+High_color 120 0 0
+
+Slider_color 202 202 202
+Slider_back_color 240 249 176
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 2 3 4 7
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 77.0 179.0 115.10478359908883 145.07744874715263 Bird Species Richness
+column_3 1.0 8.2 26.3 18.91981776765376 22.630523917995447 Annual Range of Temperature (degrees C)
+column_4 1.0 228.0 3721.0 379.1776765375854 920.2346241457859 Annual Precipitation (mm)
+column_5 1.0 2.5 24.0 12.882687927107062 16.60478359908884 Mean Annual Temperature (degrees C)
+column_6 1.0 99.0 2346.0 452.1731207289294 861.6492027334853 Range of Elevation (m)

@@ -1,0 +1,33 @@
+Region_data wmlungmodel.csv
+Region_polygons county.txt
+Reference_polygons county_states.txt
+
+Left_label1 Age-Adjusted Mortality Rates 
+Left_label2 Time:  1996 -1999
+Left_label3 Regions: Counties
+Right_label1 Weights: Population
+Right_label2 November 2002
+Right_label3 Contact Dan Carr, dcarr@gmu.edu
+
+Lat_min -1.5
+Lat_max  1.9
+Lon_min -2.5
+Lon_max 2.4
+
+# label should be region outline color
+reference_region_outline_colors 150 150 150
+
+High_color 255 0 0
+Mid_color 164 164 164
+Low_color 0 100 255
+Back_color 240 249 176
+Panel_color 229 255 255
+Slider_color 229 255 255
+Slider_back_color 240 249 176
+region_outline_colors 0 0 0
+reference_region_outline_colors 150 150 150
+
+
+#-------------- id d x y w
+Var_Select_Order 1 12 6 13 2
+

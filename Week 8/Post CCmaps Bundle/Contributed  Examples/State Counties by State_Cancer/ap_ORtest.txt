@@ -1,0 +1,32 @@
+Reference_polygons oregon_state.gen
+Region_polygons oregon_counties.gen
+Region_data OR_mortrisk.csv
+Left_label1 User Label 1
+Left_label2 User Label 2
+Left_label3 User Label 3
+Right_label1 User Label 4
+Right_label2 User Label 5
+Right_label3 User Label 6
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 0 0 0
+Panel_color 229 255 255
+Back_color 240 249 176
+
+Low_color 0 100 255
+Mid_color 136 136 136
+High_color 255 0 0
+
+Slider_color 229 255 255
+Slider_back_color 240 249 176
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 4 2 3 5
+

@@ -1,0 +1,51 @@
+Reference_polygons worldCountries.txt
+Region_polygons worldCountries.txt
+Region_data USImmigrants.csv
+Left_label1 Immigrants to US by Country of Birth
+Left_label2 Time:  2000-2002
+Left_label3 Regions: Countries
+Right_label1 Weight: Equal Weights
+Right_label2 Class Project: March 2004
+Right_label3 From: Pragyansmita Nayak
+
+Lat_min -1.0
+Lat_max 1.5
+Lon_min -3.0
+Lon_max 3.25
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 150 150 150
+Panel_color 229 255 255
+Back_color 240 249 176
+
+Low_color 0 100 255
+Mid_color 0 220 0
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 255
+
+Slider_color 229 255 255
+Slider_back_color 240 249 176
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 7 5 6 -1
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 0.0 173919.0 32.0 2270.5 1999
+column_3 1.0 0.0 206426.0 55.0 2967.5 2000
+column_4 1.0 0.0 218380.0 43.5 3067.5 2001
+column_5 1.0 0.0 5.419 2.7623682926829267 11.229344827586203 Year 2000 Counts in Thousands
+column_6 1.0 0.0 7.171 5.929192682926829 82.75048275862069 Year 2001 Counts in Thousands
+column_7 1.0 0.0 6.461 0.12606829268292682 1.6704048780487804 Year 2002 Counts in Thousands
+column_8 1.0 0.0 5.24034703 1.7467823433333332 3.4935646866666663 Year 2000: Log10 Count
+column_9 1.0 0.0 5.314764397 1.7715881323333333 3.5431762646666667 Year 2001: Log10 Count
+column_10 1.0 0.0 5.339212862 1.7797376206666666 3.5594752413333333 Year 2002:  Log10 Count

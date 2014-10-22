@@ -1,0 +1,45 @@
+Reference_polygons county_states.txt
+Region_polygons county.txt
+Region_data MortRisk.csv
+Left_label1 Age-Adjusted Mortality Rates
+Left_label2 Time:  1996-1999
+Left_label3 Regions: Counties
+Right_label1 Weight: Population
+Right_label2 November 2002
+Right_label3 Contact Dan Carr, dcarr@gmu.edu
+
+Lat_min -1.5
+Lat_max 1.9
+Lon_min -2.5
+Lon_max 2.4
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 150 150 150
+Panel_color 229 255 255
+Back_color 240 249 176
+
+Low_color 0 100 255
+Mid_color 196 196 196
+High_color 255 0 0
+
+Slider_color 229 255 255
+Slider_back_color 240 249 176
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 4 19 20 3
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 10.0 50.0 26.5 29.6 White Female Breast Cancer Mortality Rate Per 100,000
+column_3 1.0 211.0 211.0 211.0 211.0 White Female Population
+column_4 1.0 0.0 5.6 2.0351219512195122 3.0185365853658537 White Female Cervix Cancer Mortality Rate Per 100,000
+column_16 1.0 0.22 0.42 0.313 0.338 Obesity Fraction
+column_18 1.0 0.2 0.8 0.514 0.554 Fraction Mammogram In Last Three Years
+column_19 1.0 0.562 0.806 0.6625459317585303 0.7035328083989502 Pap Test Fraction,  3 Year Smooth
+column_20 1.0 76.5 162.4 113.0244094488189 127.00288713910761 Socioeconomic Status 1990 (All)

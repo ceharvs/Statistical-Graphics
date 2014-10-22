@@ -1,0 +1,52 @@
+Reference_polygons county_states.txt
+Region_polygons county.txt
+Region_data lungwmfatlas5094.csv
+Left_label1 NCI Atlas 50-94
+Left_label2 Lung Cancer: White M and  F
+Left_label3 Age-Adjusted Rates Per 100,000
+Right_label1 Weight: Equal Weights
+Right_label2 Periods:  50-69, 70-94
+Right_label3 Contact dcarr@gmu.edu
+
+Lat_min -1.532599
+Lat_max 1.78268793
+Lon_min -2.678982
+Lon_max 2.60198374
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 128 128 128
+Panel_color 229 255 255
+Back_color 240 249 176
+
+Low_color 0 100 255
+Mid_color 136 136 136
+High_color 255 0 0
+
+Slider_color 229 255 255
+Slider_back_color 240 249 176
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 12 2 13 27
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 5.8975 61.4602 26.1684062992126 35.64760708661417 White Male Rate 50:69
+column_3 1.0 28.5159 115.6964 57.57606666666666 86.63623333333332 RATEWM7094
+column_4 1.0 0.0 11.2813 3.7604333333333333 7.520866666666667 White Female Rate 50:69
+column_5 1.0 3.2996 37.4896 14.696266666666668 26.092933333333335 RATEWF7094
+column_6 1.0 0.2652040816326531 11.038622448979593 4.311805126928821 6.8080849925336 wm50se
+column_10 1.0 -1.9558000000000035 75.5945 30.61125511811023 43.43453307086614 White Male  Rate Change  70:94 - 50:69
+column_11 1.0 0.3890247281254571 16.599541345229404 5.410331094886923 8.573358727492574 White Male Rate Change SE
+column_12 1.0 -42.95917164660065 302.87554299265526 94.1039304807685 152.19690091885872 White Male Percent Change
+column_13 1.0 0.8759746773579149 117.49024058438503 28.18077840193012 51.50363158333554 wmperchse
+column_14 1.0 -0.7466000000000008 30.6288 9.711866666666666 20.170333333333332 White Female Rate Change 70:94 - 50:69
+column_15 1.0 0.18050689450248808 8.521363673547594 2.9607924875175233 5.741078080532559 White Female Rate Change SE
+column_16 1.0 -84.42367601246106 691.5920451684829 174.2482310478536 432.92013810816826 White Female % Change 50:69 to 70:94
+column_17 1.0 7.869697360389693 1269.0673731176762 428.2689226128185 848.6681478652473 White Female % Change SE
+column_23 0.0010 2.057 751.386 245.13201707317072 528.4149317073171 popwm5069 (1000s)

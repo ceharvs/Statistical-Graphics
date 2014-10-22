@@ -1,0 +1,46 @@
+Reference_polygons stateboundaryOnly.txt
+Region_polygons stateboundaryOnly.txt
+Region_data homicideStates.csv
+Left_label1 Male Homicide Rates 2001-2005
+Left_label2 All Races
+Left_label3 US States
+Right_label1 Weight: Equal Weights
+Right_label2 Sources
+Right_label3 
+
+Lat_min -5.720000000000001
+Lat_max 104.1904
+Lon_min -9.64
+Lon_max 164.3848
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 0 0 0
+Panel_color 229 255 255
+Back_color 246 246 200
+
+Low_color 0 128 255
+Mid_color 145 145 145
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 254
+
+Slider_color 229 255 255
+Slider_back_color 246 246 200
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 2 5 3 -1
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 1.7 17.7 5.329268292682927 10.753658536585364 Homicide Rates in Deaths per 100000
+column_3 1.0 1.0 402.0 15.670731707317072 139.88292682926829 Population Density
+column_4 1.0 38.18 94.44 56.93333333333334 75.68666666666667 pctUrban
+column_5 1.0 7.8 17.3 10.78633257403189 13.123462414578587 Percent Female Head of Household

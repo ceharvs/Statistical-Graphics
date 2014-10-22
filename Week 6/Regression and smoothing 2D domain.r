@@ -39,7 +39,7 @@ Sections    1.  Read the abrasion loss data
                discussion
 
 
-Due         2.  One plot of your choice
+Due: 9pts   2.  One plot of your choice
             3.  The plot
             4.  The plot
             6.1 One plot of your choice
@@ -51,7 +51,6 @@ Due         2.  One plot of your choice
                 the contour plot
             8.  The coplot of abrasion loss versue tensile
                 strength given hardness
-            8.3      Two plots
  
 Uses:       source:  classDensity, classEda.r, panelFunctions.r
             packages: car, 
@@ -899,9 +898,9 @@ cases whose
 If there are 3 such intervals for the 4th variable
 and          3 such intervals for the 5th variable
 this yields 3 x 3 =  9 conditioned panels to view.    
-The multiple panel views provide by lattice conditioning
-and ggplot2 faceting are design to address such situations
-and I know the lattice can handle layouts for additional condition
+The multiple panel views provided by lattice conditioning
+and ggplot2 faceting are designed to address such situations.
+I know the lattice can handle layouts for additional condition
 variables that may span many printed pages.  
 
 Incorporating more variables and our visual analysis broadens

@@ -1,0 +1,50 @@
+Reference_polygons county_states.txt
+Region_polygons county.txt
+Region_data MortRisk.csv
+Left_label1 Age-Adjusted Mortality Rates
+Left_label2 Time:  1996-1999
+Left_label3 Regions: Counties
+Right_label1 Weight: White Male Population
+Right_label2 November 2002
+Right_label3 Contact Dan Carr, dcarr@gmu.edu
+
+Lat_min -1.5
+Lat_max 1.9
+Lon_min -2.5
+Lon_max 2.4
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 150 150 150
+Panel_color 229 255 255
+Back_color 246 246 200
+
+Low_color 0 100 255
+Mid_color 164 164 164
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 255
+
+Slider_color 229 255 255
+Slider_back_color 240 249 176
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 6 17 20 7
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 10.0 50.0 26.587926509186353 29.63254593175853 Breast Cancer Mortality Rate Per 100,000
+column_3 1.0 211.0 211.0 211.0 211.0 Population
+column_6 1.0 18.2 42.7 28.488713910761156 32.28267716535433 White Male Prostate Cancer  Mortality Rate Per 100,000
+column_7 1.0 0.0 0.0 0.0 0.0 White Male Population
+column_16 1.0 0.22 0.42 0.31343832020997375 0.3381102362204724 Obesity Fraction
+column_17 1.0 0.05 0.262 0.129 0.217 Fraction With No Insurance (All) 
+column_18 1.0 0.2 0.8 0.5149606299212599 0.5543307086614173 Fraction Mammogram In Last Three Years
+column_20 1.0 76.66 162.4 66.84 123.13 Socioeconomic Status 1990 (All)

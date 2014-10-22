@@ -1,0 +1,44 @@
+Reference_polygons MA_boundary.txt
+Region_polygons MA_counties.txt
+Region_data MA_mortrisk.csv
+Left_label1 Age-Adjusted Mortality Rates
+Left_label2 Time:  1996-1999
+Left_label3 Regions: Counties
+Right_label1 Weight: Population
+Right_label2 November 2002
+Right_label3 Contact Dan Carr, dcarr@gmu.edu
+
+Lat_min 768579.0
+Lat_max 968651.0
+Lon_min 27188.0
+Lon_max 337521.0
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 150 150 150
+Panel_color 229 255 255
+Back_color 240 249 176
+
+Low_color 0 100 255
+Mid_color 164 164 164
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 254
+
+Slider_color 229 255 255
+Slider_back_color 229 255 255
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 2 16 18 3
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 26.2 48.7 29.986585365853657 32.895121951219515 Breast Cancer Mortality Rate Per 100,000
+column_3 1.0 0.0 0.0 0.0 0.0 Population

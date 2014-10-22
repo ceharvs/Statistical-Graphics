@@ -1,0 +1,50 @@
+Reference_polygons LA_boundary.txt
+Region_polygons LA_counties.txt
+Region_data katrinaBig.csv
+Left_label1 Louisiana Demographic Data
+Left_label2 Regions:  Parishes
+Left_label3 Time:  2005 - 2007
+Right_label1 Weight: Equal Weights
+Right_label2 Contact Linda: lpickle@statnetconsulting.com
+Right_label3 Contact Dan: dcarr@gmu.edu
+
+Lat_min -170296.0
+Lat_max 290280.0
+Lon_min 740414.0
+Lon_max 1454818.0
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 190 190 190
+Panel_color 229 255 255
+Back_color 246 246 200
+
+Low_color 0 128 255
+Mid_color 145 145 145
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 254
+
+Slider_color 229 255 255
+Slider_back_color 246 246 200
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 39 37 20 -1
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 6618.0 147250.0 53495.333333333336 100372.66666666667 pop_total
+column_3 1.0 2848.0 93967.0 33221.0 63594.0 pop_nhWhite
+column_4 1.0 354.0 28424.0 9710.666666666666 19067.333333333332 pop_black
+column_20 1.0 0.0972 0.3665 0.12412999999999999 0.13660975609756099 Fraction of All Households in Poverty
+column_37 1.0 -3.55956336 2.794262968 -24.21565113931034 2.888099573034483 White Percent  Change 2005 to 2006
+column_39 1.0 -2.295622974 1.952831606 -0.4334394704304463 0.20215609665616796 White Percent Change 2006 to 2007
+column_49 1.0 -3.699035511 2.491647319 -1.6354745676666664 0.4280863756666671 WMpc0506
+column_51 1.0 -2.424173448 2.395244592 -0.8177007679999997 0.7887719120000005 WMpc0607

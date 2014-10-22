@@ -1,0 +1,54 @@
+Reference_polygons stateVisCCmap.txt
+Region_polygons stateVisCCmap.txt
+Region_data LiverBileCCmaps.csv
+Left_label1 Male Mortality Rates Age-Adjusted
+Left_label2 Years 1999  -  2009
+Left_label3 From SEER Registry Health
+Right_label1 Weight: Pop. 2009
+Right_label2 BRFSS: Drinking Pcts
+Right_label3 Contact Dan Carr: dcarr@gmu.edu
+
+Lat_min -5.720000000000001
+Lat_max 104.1904
+Lon_min -9.64
+Lon_max 164.3848
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 190 190 190
+reference_region_outline_colors 50 50 50
+Panel_color 229 255 255
+Back_color 255 255 215
+
+Low_color 0 145 255
+Mid_color 170 170 170
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 254
+
+Slider_color 229 255 255
+Slider_back_color 255 255 215
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 17 19 20 22
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 3.9 8.5 5.549268292682926 6.469268292682926 Rate1999
+column_4 1.0 1.9 7.8 4.130979498861048 5.286788154897494 Lci1999
+column_5 1.0 5.2 10.6 6.767317073170732 8.044878048780488 Uci1999
+column_7 1.0 0.0 0.0 0.0 0.0 Pop1999
+column_17 1.0 5.5 11.9 7.9975609756097565 10.011219512195122 Liver and Bile Duct  Rate 2009 Deaths Per 100000
+column_19 1.0 4.5 10.5 6.5 8.5 95% Lower CI 2009
+column_20 1.0 6.7 13.0 8.8 10.9 95% Upper CI 2009 
+column_22 1.0 0.0 0.0 0.0 0.0 Pop. 2009
+column_23 1.0 1.7 6.2 3.1707317073170733 4.136585365853659 Heavy Drinking 1999 %
+column_25 1.0 3.7 6.5 4.633333333333334 5.566666666666666 HeavyD2009
+column_26 1.0 8.8 20.2 12.6 16.4 BingeD2009
+column_30 1.0 25.0538536015899 94.9123151692975 53.69741415326955 82.02271292104165 Non Hispanic White %

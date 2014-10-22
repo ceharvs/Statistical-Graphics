@@ -1,0 +1,48 @@
+Reference_polygons LA_boundary.txt
+Region_polygons LA_counties.txt
+Region_data katrinaBigSubset.csv
+Left_label1 Louisiana Population Data
+Left_label2 Regions:  Parishes
+Left_label3 Period:  2005  to  2006
+Right_label1 Weight: Equal Weights
+Right_label2 Contact Linda: lpickle@statnetconsulting.com
+Right_label3 Contact Dan: dcarr@gmu.edu
+
+Lat_min -170296.0
+Lat_max 290280.0
+Lon_min 740414.0
+Lon_max 1454818.0
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 190 190 190
+Panel_color 229 255 255
+Back_color 246 246 200
+
+Low_color 0 128 255
+Mid_color 145 145 145
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 254
+
+Slider_color 229 255 255
+Slider_back_color 246 246 200
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 19 25 31 -1
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 0.0 0.0 0.0 0.0 pop_total
+column_3 1.0 2848.0 227677.0 77791.0 152734.0 pop_nhWhite
+column_4 1.0 354.0 163054.0 54587.333333333336 108820.66666666667 pop_black
+column_19 1.0 -6.154562486 5.515524514 -1.031109656731708 1.0182714749756085 White Percent  Change: 2005 to 2006
+column_25 1.0 -8.136934748 9.914350078 -1.0301296983937016 1.0071544158267702 Black Percent Change
+column_31 1.0 -4.074409649 18.45618108 -1.0585038033858267 1.0112355024278212 Hispanic Percent Change

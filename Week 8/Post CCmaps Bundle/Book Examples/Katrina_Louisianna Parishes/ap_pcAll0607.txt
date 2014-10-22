@@ -1,0 +1,59 @@
+Reference_polygons LA_boundary.txt
+Region_polygons LA_counties.txt
+Region_data katrinaBigSubset.csv
+Left_label1 Louisianna Demographic Data
+Left_label2 Regions:  Parishes
+Left_label3 Time:  2006 to 2007
+Right_label1 Weight: Equal Weights
+Right_label2 Contact Linda: lpickle@statnetconsulting.com
+Right_label3 Contact Dan: dcarr@gmu.edu
+
+Lat_min -170296.0
+Lat_max 290280.0
+Lon_min 740414.0
+Lon_max 1454818.0
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 190 190 190
+Panel_color 229 255 255
+Back_color 246 246 200
+
+Low_color 0 128 255
+Mid_color 145 145 145
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 254
+
+Slider_color 229 255 255
+Slider_back_color 246 246 200
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 21 27 33 -1
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 0.0 0.0 0.0 0.0 pop_total
+column_3 1.0 2848.0 93967.0 33221.0 63594.0 pop_nhWhite
+column_4 1.0 354.0 28424.0 9710.666666666666 19067.333333333332 pop_black
+column_5 1.0 43.0 3166.0 1084.0 2125.0 pop_Hisp
+column_8 1.0 2435.0 47161.0 17343.666666666664 32252.333333333332 Households
+column_11 1.0 0.0 0.0369 0.0123 0.0246 HHPctLingIsolated
+column_12 1.0 8.0E-4 0.03 0.010533333333333334 0.020266666666666665 PctForeignBorn
+column_20 1.0 0.0972 0.3665 0.12412999999999999 0.13792341463414634 Faction of All Households in Poverty
+column_21 1.0 -2.295622974 1.952831606 -1.0132810404041996 1.0050136550813646 White Percent Change 2006 to 2007
+column_27 1.0 -2.443332352 2.752763433 -1.0113374506220472 1.0070934579868767 Black Percent Change
+column_33 1.0 -0.81300813 10.62282643 -0.8130081400000001 0.9999900319512194 Hispanic Percent Change
+column_34 1.0 2503.0 2503.0 2503.0 2503.0 Wpc06:07
+column_37 1.0 -3.55956336 2.794262968 -1.4416212506666666 0.6763208586666667 Wpc0506
+column_39 1.0 -2.295622974 1.952831606 -1.0132810404041996 1.0050136550813646 White Percent Change: 2006 to 2007
+column_52 1.0 423.0 423.0 423.0 423.0 Bpc06:07
+column_55 1.0 -4.939569101 9.914350078 -29.77011085172414 7.497176878267716 Black Percent Change: 2005 to 2006
+column_57 1.0 -2.443332352 2.752763433 -1.0113374506220472 1.0070934579868767 Black Percent Change: 2006 to 2007

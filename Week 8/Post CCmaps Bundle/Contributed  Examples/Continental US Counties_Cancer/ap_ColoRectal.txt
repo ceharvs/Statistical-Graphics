@@ -1,0 +1,46 @@
+Reference_polygons county_states.txt
+Region_polygons county.txt
+Region_data ColoRectalRisk.csv
+Left_label1 Age-Adjusted Mortality Rates
+Left_label2 Time:  1995-1999
+Left_label3 Regions: Counties
+Right_label1 Weight: Population
+Right_label2 January 2003
+Right_label3 Contact Dan Carr, dcarr@gmu.edu
+
+Lat_min -1.5
+Lat_max 1.9
+Lon_min -2.5
+Lon_max 2.4
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 150 150 150
+Panel_color 229 255 255
+Back_color 240 249 176
+
+Low_color 0 100 255
+Mid_color 164 164 164
+High_color 255 0 0
+
+Low_color_y_slider 240 120 0
+Mid_color_y_slider 120 120 120
+High_color_y_slider 0 128 255
+
+Slider_color 229 255 255
+Slider_back_color 240 249 176
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 2 3 4 7
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 13.4 30.0 20.458267716535435 23.900262467191602 ColoRectal Cancer Mortality (Smoothed 95-99) Rate Per 100,000
+column_3 1.0 0.06 0.34 0.21 0.23 Fecal Occult Blood Test Fraction 2 Year Smooth
+column_4 1.0 75.0 160.0 107.12 123.13 SocioEconomic Status 1990 (All)
+column_7 1.0 0.0 0.0 0.0 0.0 Population

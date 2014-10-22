@@ -1,0 +1,97 @@
+Reference_polygons midatlantic_states.txt
+Region_polygons midatlantic_hex.txt
+Region_data MidAtlanticSpecies.csv
+Left_label1 Midaltantic Study
+Left_label2 Period: Need to check
+Left_label3 Hexagon grid
+Right_label1 Weight: Equal Weights
+Right_label2 Contact: Dan Carr, GMU
+Right_label3 Contact: Denis White, OSU
+
+Lat_min -185000.0
+Lat_max 485000.0
+Lon_min -520000.0
+Lon_max 450000.0
+
+region_outline_width 1.0
+reference_region_outline_width 1.0
+region_outline_colors 0 0 0
+reference_region_outline_colors 190 190 190
+Panel_color 229 255 255
+Back_color 246 246 200
+
+Low_color 0 128 255
+Mid_color 145 145 145
+High_color 255 0 0
+
+Slider_color 229 255 255
+Slider_back_color 246 246 200
+
+Zoom_scale 1.0
+Zoom_shift_lat 0.0
+Zoom_shift_lon 0.0
+
+#--------------- id d x y w
+#var select order
+Var_Select_Order 1 3 5 18 62
+
+#column_X scale start stop midlow midhigh label
+column_2 1.0 3.0 34.0 15.0 20.0 Number of Amphibian Species 
+column_3 1.0 44.0 152.0 91.72665148063781 115.09794988610479 Number of Bird Species
+column_4 1.0 1.0 85.0 26.0 36.0 Number of Fish Species
+column_5 1.0 25.0 52.0 34.041002277904326 39.02277904328018 Number of Mammal Species
+column_6 1.0 2.0 38.0 10.671 16.0 Number of Reptile Species
+column_7 1.0 -7.567 4.002 -3.188238 -0.471575999999999 Jan Temp Ave(C)
+column_8 1.0 0.0 2.392 0.479 0.861329 Jan Temp Sd. (C)
+column_9 1.0 16.295 25.784 21.004013 23.128974 July Temp Ave (C)
+column_10 1.0 0.0 2.689 0.490671 0.921329 July Temp Sd (C)
+column_11 1.0 863.097 1459.913 1052.457974 1106.964189 Precipitation Ave (mm)
+column_12 1.0 2.094 157.673 14.907078 28.297164 Precipitation Sd (mm)
+column_13 1.0 711.0 1241.0 993.671 1066.0 Precipitation Min (mm)
+column_14 1.0 928.0 1731.0 1102.0 1163.0 Precipitation Max (mm)
+column_15 1.0 21.034 25.982 23.02171 24.647303 July - Jan Temp Ave (C)
+column_16 1.0 0.0 761.0 122.0 274.0 Elevation Min (m)
+column_17 1.0 6.0 1688.0 388.671 701.0 Elevation Max (m)
+column_18 1.0 1.0 1069.0 468.09794988610474 623.7972665148063 Elevation Ave (m)
+column_19 1.0 1.4 290.5 37.3671 90.3658 Elevation Sd (m)
+column_20 1.0 0.874 1.599 1.4 1.470329 Fractal
+column_21 1.0 0.145 0.911 0.349671 0.468 Dominance
+column_22 1.0 0.236 0.881 0.667671 0.737 Contagion
+column_23 1.0 0.138 17.575 3.439091 8.383528 Slope Max (degrees)
+column_24 1.0 0.0 0.383 0.0 0.041329 Slope Min (degrees)
+column_25 1.0 0.0 5.421 0.805342 1.697961 Slope Median (degrees)
+column_26 1.0 0.028 5.443 0.971342 2.081593 Slope Ave (degrees)
+column_27 1.0 0.025 3.384 0.591026 1.516 Slope Sd (degrees)
+column_28 1.0 0.01 5.304 0.732342 1.728987 Slope IQR (degrees)
+column_29 1.0 1.0 357.2 111.8355 218.2264 Aspect Ave (degrees)
+column_30 1.0 48.0 80.7 72.6671 76.5 Aspect Dev (degrees)
+column_31 100.0 0.0 0.58525 0.0 0.00308329 Crop.Pasture %
+column_32 100.0 0.0 0.21263 0.0 0.0 Grass.Crop %
+column_33 100.0 0.0 0.84615 0.01954308 0.14489666 Wood.Crop %
+column_34 100.0 0.0 0.04006 0.0 0.0 Grass %
+column_35 100.0 0.0 0.01849 0.0 0.0 Shrub %
+column_36 100.0 0.0 0.03544 0.0 0.0 Grass.Shrub %
+column_37 100.0 0.0 1.0 0.453 0.8068738 Deciduous %
+column_38 100.0 0.0 0.38117 0.0 0.00154 Evergreen %
+column_39 100.0 0.0 0.89676 0.01079671 0.19042255 Mix.Forest %
+column_40 100.0 0.0 0.52087 0.0 0.0 Water %
+column_41 100.0 0.0 0.02928 0.0 0.0 Coast.Wet %
+column_42 100.0 0.0 0.00463 0.0 0.0 Barren %
+column_43 100.0 0.0 0.0 0.0 0.0 Tundra %
+column_44 100.0 0.0 0.57407 0.0 0.00929329 Urban %
+column_45 1.0 0.0 82.6703 4.3747366 24.4030172 Roads Major (km)
+column_46 1.0 0.0 198.6139 29.6993748 58.5648228 Roads Minor (km)
+column_47 1.0 0.0 128.402 42.714931 62.6178 Streams Major (km)
+column_48 1.0 0.0 48.569 0.0 0.0 Streams Perennial (km)
+column_49 1.0 0.0 128.402 42.714931 62.6178 Streams Intermittant (km)
+column_50 1.0 0.0 128.402 42.714931 62.6178 Streams Braided (km)
+column_51 1.0 0.0 249.8984 0.0 0.0 Federal Park (sq km)
+column_52 1.0 0.0 172.8726 0.0 0.0 Federal Refuge (sq km)
+column_53 1.0 0.0 69.2972 0.0 0.0 Federal Wilderness (sq km)
+column_54 1.0 0.0 0.0 0.0 0.0 Federal Indian (sq km)
+column_55 1.0 0.0 275.152 0.0 0.0 Federal Military (sq km)
+column_56 1.0 0.0 648.7333 0.0 0.0 Federal Forest (sq km)
+column_57 1.0 0.0 0.0 0.0 0.0 Non Federal (sq km)
+column_58 1.0 0.0 648.7333 0.0 0.0 Federal (sq km)
+column_59 1.0 0.0 385.206 128.698185 188.724894 Stream (km)
+column_60 1.0 0.0 211.3235 51.7830473 79.0222279 Roads (km)
