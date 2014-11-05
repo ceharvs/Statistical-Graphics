@@ -1,0 +1,33 @@
+---
+title: "Redesign"
+author: "Christine Harvey"
+date: "Thursday, October 30, 2014"
+output: html_document
+---
+
+Data Redesign
+
+Data Injest
+
+```{r}
+library(ggplot2)
+library(scales)
+setwd("C:/Users/ceharvey/Documents/Personal/School/Statistical-Graphics/Redesign")
+
+data = read.csv("Data3.csv")
+data$Region <- factor(data$Region, levels = rev(c("Pacific","Midwest", "Southeast", "Rocky Mountains", "Southwest","Northeast")))
+data$Gender <- factor(data$Gender)
+
+data$Organ <- factor(data$Organ)
+data$Type <- factor(data$Type)
+
+```
+
+Donors per state, colored by gender, shape by death mechanism
+
+```{r}
+newdata <- data[ which((data$Type=='Recovered Per Donor' | data$Type=='Transplanted Per Donor') & (data$Organ =='All') & (data$Region!='Hawaii')& (data$Region!='Puerto Rico')), ]
+p <- ggplot(newdata, aes(Count, Region, color=Gender))+geom_point(size=4)
+p+labs(y = "Region", x="Number Organs Per Donor in 2012")+facet_grid(. ~ Type, scales = "free")+ scale_color_manual(values=c("#009900", "#FF0033", "#0000CC"))+ theme(title = element_text(size=18, face="bold"),strip.text.x = element_text(size=16, face="bold"), strip.text.y = element_text(size=14), axis.title.x = element_text(face="bold", size=16), axis.text.x  = element_text(vjust=0.5, size=14), axis.title.y = element_text(face="bold", size=16), axis.text.y  = element_text(size=16), legend.text = element_text( size=16), legend.title = element_text( size=16))
+```
+

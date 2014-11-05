@@ -1,0 +1,1281 @@
+State,Gender,LeadingDeathMechanism,Type,Organ,Count
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Donors,All,52
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Donors,All,58
+ Arizona, Male,Blunt Injury,Donors,All,94
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Donors,All,49
+ Arkansas, Male,Blunt Injury,Donors,All,41
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Donors,All,26
+ California, Male,Intracranial Hemorrhage / Stroke,Donors,All,533
+ California, Female,Intracranial Hemorrhage / Stroke,Donors,All,328
+ Colorado, Male,Blunt Injury,Donors,All,86
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Donors,All,40
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Donors,All,29
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Donors,All,13
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Donors,All,78
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Donors,All,54
+ Florida, Male,Blunt Injury,Donors,All,326
+ Florida, Female,Intracranial Hemorrhage / Stroke,Donors,All,228
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Donors,All,146
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Donors,All,123
+ Hawaii, Male,Blunt Injury,Donors,All,38
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Donors,All,19
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Donors,All,161
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Donors,All,109
+ Indiana, Male,Blunt Injury,Donors,All,94
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Donors,All,60
+ Iowa, Male,Blunt Injury,Donors,All,38
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Donors,All,22
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Donors,All,121
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Donors,All,88
+ Kentucky, Male,Blunt Injury,Donors,All,50
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Donors,All,38
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Donors,All,95
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Donors,All,75
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Donors,All,84
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Donors,All,58
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Donors,All,140
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Donors,All,77
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Donors,All,149
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Donors,All,112
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Donors,All,90
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Donors,All,63
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Donors,All,46
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Donors,All,30
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Donors,All,83
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Donors,All,82
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Donors,All,22
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Donors,All,18
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Donors,All,41
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Donors,All,34
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Donors,All,92
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Donors,All,47
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Donors,All,21
+ New Mexico, Female,Blunt Injury,Donors,All,13
+ New York, Male,Intracranial Hemorrhage / Stroke,Donors,All,216
+ New York, Female,Intracranial Hemorrhage / Stroke,Donors,All,142
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Donors,All,164
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Donors,All,135
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Donors,All,175
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Donors,All,122
+ Oklahoma, Male,Blunt Injury,Donors,All,53
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Donors,All,41
+ Oregon, Male,Gunshot Wound,Donors,All,44
+ Oregon, Female,Blunt Injury,Donors,All,31
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Donors,All,359
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Donors,All,252
+ Puerto Rico, Male,Blunt Injury,Donors,All,66
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Donors,All,39
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Donors,All,58
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Donors,All,45
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Donors,All,181
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Donors,All,120
+ Texas, Male,Blunt Injury,Donors,All,390
+ Texas, Female,Intracranial Hemorrhage / Stroke,Donors,All,266
+ Utah, Male,Blunt Injury,Donors,All,48
+ Utah, Female,Blunt Injury,Donors,All,35
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Donors,All,106
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Donors,All,73
+ Washington, Male,Blunt Injury,Donors,All,98
+ Washington, Female,Intracranial Hemorrhage / Stroke,Donors,All,78
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Donors,All,112
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Donors,All,80
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Recovered,All,186
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Recovered,All,179
+ Arizona, Male,Blunt Injury,Recovered,All,349
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Recovered,All,162
+ Arkansas, Male,Blunt Injury,Recovered,All,147
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Recovered,All,94
+ California, Male,Intracranial Hemorrhage / Stroke,Recovered,All,1967
+ California, Female,Intracranial Hemorrhage / Stroke,Recovered,All,1148
+ Colorado, Male,Blunt Injury,Recovered,All,306
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Recovered,All,143
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Recovered,All,110
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Recovered,All,46
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Recovered,All,262
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Recovered,All,159
+ Florida, Male,Blunt Injury,Recovered,All,1174
+ Florida, Female,Intracranial Hemorrhage / Stroke,Recovered,All,783
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Recovered,All,522
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Recovered,All,400
+ Hawaii, Male,Blunt Injury,Recovered,All,104
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Recovered,All,52
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Recovered,All,548
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Recovered,All,377
+ Indiana, Male,Blunt Injury,Recovered,All,367
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Recovered,All,242
+ Iowa, Male,Blunt Injury,Recovered,All,141
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Recovered,All,72
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Recovered,All,423
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Recovered,All,298
+ Kentucky, Male,Blunt Injury,Recovered,All,184
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Recovered,All,133
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Recovered,All,362
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Recovered,All,256
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Recovered,All,326
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Recovered,All,207
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Recovered,All,472
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Recovered,All,260
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Recovered,All,501
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Recovered,All,401
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Recovered,All,326
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Recovered,All,227
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Recovered,All,175
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Recovered,All,111
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Recovered,All,310
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Recovered,All,308
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Recovered,All,82
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Recovered,All,57
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Recovered,All,145
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Recovered,All,129
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Recovered,All,306
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Recovered,All,145
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Recovered,All,68
+ New Mexico, Female,Blunt Injury,Recovered,All,38
+ New York, Male,Intracranial Hemorrhage / Stroke,Recovered,All,685
+ New York, Female,Intracranial Hemorrhage / Stroke,Recovered,All,408
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,All,594
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,All,466
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Recovered,All,636
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Recovered,All,431
+ Oklahoma, Male,Blunt Injury,Recovered,All,208
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Recovered,All,152
+ Oregon, Male,Gunshot Wound,Recovered,All,163
+ Oregon, Female,Blunt Injury,Recovered,All,108
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Recovered,All,1250
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Recovered,All,852
+ Puerto Rico, Male,Blunt Injury,Recovered,All,250
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Recovered,All,109
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,All,219
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,All,166
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Recovered,All,663
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Recovered,All,425
+ Texas, Male,Blunt Injury,Recovered,All,1461
+ Texas, Female,Intracranial Hemorrhage / Stroke,Recovered,All,896
+ Utah, Male,Blunt Injury,Recovered,All,172
+ Utah, Female,Blunt Injury,Recovered,All,107
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Recovered,All,348
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Recovered,All,251
+ Washington, Male,Blunt Injury,Recovered,All,351
+ Washington, Female,Intracranial Hemorrhage / Stroke,Recovered,All,273
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Recovered,All,380
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Recovered,All,288
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,98
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,98
+ Arizona, Male,Blunt Injury,Recovered,Kidney,175
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,90
+ Arkansas, Male,Blunt Injury,Recovered,Kidney,75
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,47
+ California, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,1018
+ California, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,611
+ Colorado, Male,Blunt Injury,Recovered,Kidney,162
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,74
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,58
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,24
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,122
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,91
+ Florida, Male,Blunt Injury,Recovered,Kidney,586
+ Florida, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,407
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,220
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,197
+ Hawaii, Male,Blunt Injury,Recovered,Kidney,74
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,36
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,289
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,194
+ Indiana, Male,Blunt Injury,Recovered,Kidney,173
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,118
+ Iowa, Male,Blunt Injury,Recovered,Kidney,74
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,42
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,219
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,157
+ Kentucky, Male,Blunt Injury,Recovered,Kidney,96
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,74
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,154
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,125
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,159
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,98
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,265
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,144
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,270
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,208
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,163
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,122
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,85
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,60
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,136
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,142
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,42
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,34
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,82
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,64
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,170
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,94
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,38
+ New Mexico, Female,Blunt Injury,Recovered,Kidney,26
+ New York, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,368
+ New York, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,225
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,307
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,241
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,322
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,225
+ Oklahoma, Male,Blunt Injury,Recovered,Kidney,105
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,77
+ Oregon, Male,Gunshot Wound,Recovered,Kidney,82
+ Oregon, Female,Blunt Injury,Recovered,Kidney,62
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,629
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,452
+ Puerto Rico, Male,Blunt Injury,Recovered,Kidney,119
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,65
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,107
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,82
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,330
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,228
+ Texas, Male,Blunt Injury,Recovered,Kidney,709
+ Texas, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,448
+ Utah, Male,Blunt Injury,Recovered,Kidney,91
+ Utah, Female,Blunt Injury,Recovered,Kidney,69
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,199
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,136
+ Washington, Male,Blunt Injury,Recovered,Kidney,190
+ Washington, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,152
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Recovered,Kidney,202
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Recovered,Kidney,152
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,14
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,6
+ Arizona, Male,Blunt Injury,Recovered,Pancreas,18
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,6
+ Arkansas, Male,Blunt Injury,Recovered,Pancreas,6
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,0
+ California, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,98
+ California, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,43
+ Colorado, Male,Blunt Injury,Recovered,Pancreas,19
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,4
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,10
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,1
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,17
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,4
+ Florida, Male,Blunt Injury,Recovered,Pancreas,68
+ Florida, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,23
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,29
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,12
+ Hawaii, Male,Blunt Injury,Recovered,Pancreas,7
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,1
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,50
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,33
+ Indiana, Male,Blunt Injury,Recovered,Pancreas,32
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,17
+ Iowa, Male,Blunt Injury,Recovered,Pancreas,10
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,4
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,29
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,14
+ Kentucky, Male,Blunt Injury,Recovered,Pancreas,9
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,4
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,28
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,13
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,26
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,13
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,30
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,10
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,24
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,17
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,20
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,14
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,7
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,2
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,13
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,9
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,6
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,3
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,9
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,5
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,15
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,4
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,1
+ New Mexico, Female,Blunt Injury,Recovered,Pancreas,1
+ New York, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,34
+ New York, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,12
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,31
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,25
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,46
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,20
+ Oklahoma, Male,Blunt Injury,Recovered,Pancreas,12
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,8
+ Oregon, Male,Gunshot Wound,Recovered,Pancreas,6
+ Oregon, Female,Blunt Injury,Recovered,Pancreas,4
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,63
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,24
+ Puerto Rico, Male,Blunt Injury,Recovered,Pancreas,17
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,16
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,15
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,7
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,59
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,36
+ Texas, Male,Blunt Injury,Recovered,Pancreas,110
+ Texas, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,79
+ Utah, Male,Blunt Injury,Recovered,Pancreas,8
+ Utah, Female,Blunt Injury,Recovered,Pancreas,6
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,21
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,10
+ Washington, Male,Blunt Injury,Recovered,Pancreas,26
+ Washington, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,15
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,52
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Recovered,Pancreas,30
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,45
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,52
+ Arizona, Male,Blunt Injury,Recovered,Liver,80
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,40
+ Arkansas, Male,Blunt Injury,Recovered,Liver,36
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,26
+ California, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,411
+ California, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,261
+ Colorado, Male,Blunt Injury,Recovered,Liver,67
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,36
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,24
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,13
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,68
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,41
+ Florida, Male,Blunt Injury,Recovered,Liver,289
+ Florida, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,189
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,131
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,111
+ Hawaii, Male,Blunt Injury,Recovered,Liver,23
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,11
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,114
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,90
+ Indiana, Male,Blunt Injury,Recovered,Liver,84
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,52
+ Iowa, Male,Blunt Injury,Recovered,Liver,28
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,17
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,84
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,64
+ Kentucky, Male,Blunt Injury,Recovered,Liver,44
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,31
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,92
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,70
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,69
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,53
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,104
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,54
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,103
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,84
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,77
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,54
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,43
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,26
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,70
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,70
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,21
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,13
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,33
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,29
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,63
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,26
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,17
+ New Mexico, Female,Blunt Injury,Recovered,Liver,8
+ New York, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,175
+ New York, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,118
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,121
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,99
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,149
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,96
+ Oklahoma, Male,Blunt Injury,Recovered,Liver,42
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,36
+ Oregon, Male,Gunshot Wound,Recovered,Liver,37
+ Oregon, Female,Blunt Injury,Recovered,Liver,28
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,315
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,221
+ Puerto Rico, Male,Blunt Injury,Recovered,Liver,57
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,32
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,52
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,44
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,155
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,110
+ Texas, Male,Blunt Injury,Recovered,Liver,298
+ Texas, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,213
+ Utah, Male,Blunt Injury,Recovered,Liver,34
+ Utah, Female,Blunt Injury,Recovered,Liver,19
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,87
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,62
+ Washington, Male,Blunt Injury,Recovered,Liver,75
+ Washington, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,61
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Recovered,Liver,90
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Recovered,Liver,63
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Arizona, Male,Blunt Injury,Recovered,Intestine,0
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Arkansas, Male,Blunt Injury,Recovered,Intestine,0
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ California, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ California, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,5
+ Colorado, Male,Blunt Injury,Recovered,Intestine,1
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Florida, Male,Blunt Injury,Recovered,Intestine,11
+ Florida, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Hawaii, Male,Blunt Injury,Recovered,Intestine,0
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,4
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ Indiana, Male,Blunt Injury,Recovered,Intestine,10
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Iowa, Male,Blunt Injury,Recovered,Intestine,2
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Kentucky, Male,Blunt Injury,Recovered,Intestine,0
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ New Mexico, Female,Blunt Injury,Recovered,Intestine,0
+ New York, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ New York, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Oklahoma, Male,Blunt Injury,Recovered,Intestine,2
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Oregon, Male,Gunshot Wound,Recovered,Intestine,0
+ Oregon, Female,Blunt Injury,Recovered,Intestine,0
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Puerto Rico, Male,Blunt Injury,Recovered,Intestine,0
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,5
+ Texas, Male,Blunt Injury,Recovered,Intestine,3
+ Texas, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,2
+ Utah, Male,Blunt Injury,Recovered,Intestine,1
+ Utah, Female,Blunt Injury,Recovered,Intestine,2
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,0
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,3
+ Washington, Male,Blunt Injury,Recovered,Intestine,0
+ Washington, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Recovered,Intestine,1
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,14
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,13
+ Arizona, Male,Blunt Injury,Recovered,Heart,34
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,11
+ Arkansas, Male,Blunt Injury,Recovered,Heart,17
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,2
+ California, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,189
+ California, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,90
+ Colorado, Male,Blunt Injury,Recovered,Heart,33
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,15
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,12
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,4
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,19
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,7
+ Florida, Male,Blunt Injury,Recovered,Heart,114
+ Florida, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,62
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,66
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,29
+ Hawaii, Male,Blunt Injury,Recovered,Heart,0
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,0
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,45
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,31
+ Indiana, Male,Blunt Injury,Recovered,Heart,38
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,23
+ Iowa, Male,Blunt Injury,Recovered,Heart,13
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,5
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,38
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,26
+ Kentucky, Male,Blunt Injury,Recovered,Heart,15
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,8
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,31
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,13
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,27
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,15
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,36
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,20
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,52
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,35
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,31
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,16
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,17
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,10
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,27
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,21
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,5
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,3
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,10
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,10
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,28
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,9
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,4
+ New Mexico, Female,Blunt Injury,Recovered,Heart,2
+ New York, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,72
+ New York, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,27
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,52
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,28
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,65
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,30
+ Oklahoma, Male,Blunt Injury,Recovered,Heart,19
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,13
+ Oregon, Male,Gunshot Wound,Recovered,Heart,17
+ Oregon, Female,Blunt Injury,Recovered,Heart,8
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,104
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,55
+ Puerto Rico, Male,Blunt Injury,Recovered,Heart,22
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,2
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,22
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,14
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,66
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,26
+ Texas, Male,Blunt Injury,Recovered,Heart,171
+ Texas, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,65
+ Utah, Male,Blunt Injury,Recovered,Heart,22
+ Utah, Female,Blunt Injury,Recovered,Heart,7
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,24
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,14
+ Washington, Male,Blunt Injury,Recovered,Heart,37
+ Washington, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,22
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Recovered,Heart,35
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Recovered,Heart,17
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,15
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,9
+ Arizona, Male,Blunt Injury,Recovered,Lungs,42
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,15
+ Arkansas, Male,Blunt Injury,Recovered,Lungs,13
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,19
+ California, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,248
+ California, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,138
+ Colorado, Male,Blunt Injury,Recovered,Lungs,24
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,14
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,6
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,4
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,36
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,16
+ Florida, Male,Blunt Injury,Recovered,Lungs,106
+ Florida, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,100
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,74
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,49
+ Hawaii, Male,Blunt Injury,Recovered,Lungs,0
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,4
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,46
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,26
+ Indiana, Male,Blunt Injury,Recovered,Lungs,30
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,30
+ Iowa, Male,Blunt Injury,Recovered,Lungs,14
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,4
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,52
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,37
+ Kentucky, Male,Blunt Injury,Recovered,Lungs,20
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,14
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,55
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,34
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,45
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,28
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,34
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,32
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,49
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,54
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,33
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,21
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,22
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,12
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,63
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,66
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,8
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,4
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,8
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,20
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,30
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,12
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,8
+ New Mexico, Female,Blunt Injury,Recovered,Lungs,1
+ New York, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,33
+ New York, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,23
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,82
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,70
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,53
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,60
+ Oklahoma, Male,Blunt Injury,Recovered,Lungs,28
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,17
+ Oregon, Male,Gunshot Wound,Recovered,Lungs,21
+ Oregon, Female,Blunt Injury,Recovered,Lungs,6
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,137
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,98
+ Puerto Rico, Male,Blunt Injury,Recovered,Lungs,36
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,9
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,31
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,16
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,73
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,33
+ Texas, Male,Blunt Injury,Recovered,Lungs,201
+ Texas, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,137
+ Utah, Male,Blunt Injury,Recovered,Lungs,18
+ Utah, Female,Blunt Injury,Recovered,Lungs,8
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,28
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,25
+ Washington, Male,Blunt Injury,Recovered,Lungs,34
+ Washington, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,26
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Recovered,Lungs,22
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Recovered,Lungs,33
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,162
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,155
+ Arizona, Male,Blunt Injury,Transplanted,All,308
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,130
+ Arkansas, Male,Blunt Injury,Transplanted,All,126
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,79
+ California, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,1778
+ California, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,1009
+ Colorado, Male,Blunt Injury,Transplanted,All,263
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,127
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,99
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,39
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,227
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,129
+ Florida, Male,Blunt Injury,Transplanted,All,1077
+ Florida, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,674
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,479
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,342
+ Hawaii, Male,Blunt Injury,Transplanted,All,79
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,37
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,487
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,313
+ Indiana, Male,Blunt Injury,Transplanted,All,317
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,213
+ Iowa, Male,Blunt Injury,Transplanted,All,124
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,65
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,368
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,258
+ Kentucky, Male,Blunt Injury,Transplanted,All,158
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,116
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,340
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,216
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,265
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,166
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,414
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,221
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,432
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,343
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,272
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,193
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,159
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,90
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,280
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,276
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,78
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,52
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,123
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,111
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,267
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,111
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,55
+ New Mexico, Female,Blunt Injury,Transplanted,All,34
+ New York, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,604
+ New York, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,352
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,491
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,377
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,567
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,386
+ Oklahoma, Male,Blunt Injury,Transplanted,All,196
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,127
+ Oregon, Male,Gunshot Wound,Transplanted,All,149
+ Oregon, Female,Blunt Injury,Transplanted,All,100
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,942
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,627
+ Puerto Rico, Male,Blunt Injury,Transplanted,All,206
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,87
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,199
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,132
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,549
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,350
+ Texas, Male,Blunt Injury,Transplanted,All,1304
+ Texas, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,757
+ Utah, Male,Blunt Injury,Transplanted,All,159
+ Utah, Female,Blunt Injury,Transplanted,All,100
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,286
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,190
+ Washington, Male,Blunt Injury,Transplanted,All,288
+ Washington, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,237
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Transplanted,All,324
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Transplanted,All,235
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,78
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,79
+ Arizona, Male,Blunt Injury,Transplanted,Kidney,149
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,66
+ Arkansas, Male,Blunt Injury,Transplanted,Kidney,62
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,35
+ California, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,879
+ California, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,527
+ Colorado, Male,Blunt Injury,Transplanted,Kidney,142
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,61
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,54
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,18
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,106
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,70
+ Florida, Male,Blunt Injury,Transplanted,Kidney,523
+ Florida, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,317
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,191
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,148
+ Hawaii, Male,Blunt Injury,Transplanted,Kidney,59
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,25
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,248
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,146
+ Indiana, Male,Blunt Injury,Transplanted,Kidney,146
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,104
+ Iowa, Male,Blunt Injury,Transplanted,Kidney,62
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,39
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,181
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,127
+ Kentucky, Male,Blunt Injury,Transplanted,Kidney,76
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,59
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,135
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,92
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,118
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,76
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,232
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,120
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,215
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,158
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,123
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,97
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,75
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,46
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,114
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,116
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,40
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,30
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,67
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,49
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,145
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,68
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,27
+ New Mexico, Female,Blunt Injury,Transplanted,Kidney,23
+ New York, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,309
+ New York, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,182
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,242
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,185
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,271
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,185
+ Oklahoma, Male,Blunt Injury,Transplanted,Kidney,99
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,65
+ Oregon, Male,Gunshot Wound,Transplanted,Kidney,74
+ Oregon, Female,Blunt Injury,Transplanted,Kidney,57
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,476
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,313
+ Puerto Rico, Male,Blunt Injury,Transplanted,Kidney,87
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,47
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,97
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,57
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,240
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,167
+ Texas, Male,Blunt Injury,Transplanted,Kidney,591
+ Texas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,333
+ Utah, Male,Blunt Injury,Transplanted,Kidney,81
+ Utah, Female,Blunt Injury,Transplanted,Kidney,63
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,154
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,94
+ Washington, Male,Blunt Injury,Transplanted,Kidney,162
+ Washington, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,132
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,169
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Transplanted,Kidney,116
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,12
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,4
+ Arizona, Male,Blunt Injury,Transplanted,Pancreas,13
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,5
+ Arkansas, Male,Blunt Injury,Transplanted,Pancreas,4
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,0
+ California, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,80
+ California, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,29
+ Colorado, Male,Blunt Injury,Transplanted,Pancreas,17
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,4
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,6
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,1
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,11
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,4
+ Florida, Male,Blunt Injury,Transplanted,Pancreas,54
+ Florida, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,18
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,26
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,12
+ Hawaii, Male,Blunt Injury,Transplanted,Pancreas,5
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,1
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,34
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,21
+ Indiana, Male,Blunt Injury,Transplanted,Pancreas,21
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,13
+ Iowa, Male,Blunt Injury,Transplanted,Pancreas,9
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,2
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,21
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,11
+ Kentucky, Male,Blunt Injury,Transplanted,Pancreas,6
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,3
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,27
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,10
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,17
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,6
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,18
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,4
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,23
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,14
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,12
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,9
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,4
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,1
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,10
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,9
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,5
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,2
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,5
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,5
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,11
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,3
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,0
+ New Mexico, Female,Blunt Injury,Transplanted,Pancreas,1
+ New York, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,24
+ New York, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,10
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,19
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,11
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,39
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,20
+ Oklahoma, Male,Blunt Injury,Transplanted,Pancreas,8
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,5
+ Oregon, Male,Gunshot Wound,Transplanted,Pancreas,6
+ Oregon, Female,Blunt Injury,Transplanted,Pancreas,4
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,37
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,12
+ Puerto Rico, Male,Blunt Injury,Transplanted,Pancreas,14
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,1
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,6
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,6
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,27
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,17
+ Texas, Male,Blunt Injury,Transplanted,Pancreas,65
+ Texas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,24
+ Utah, Male,Blunt Injury,Transplanted,Pancreas,6
+ Utah, Female,Blunt Injury,Transplanted,Pancreas,1
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,9
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,8
+ Washington, Male,Blunt Injury,Transplanted,Pancreas,9
+ Washington, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,8
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,23
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Transplanted,Pancreas,17
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,43
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,49
+ Arizona, Male,Blunt Injury,Transplanted,Liver,72
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,34
+ Arkansas, Male,Blunt Injury,Transplanted,Liver,30
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,23
+ California, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,381
+ California, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,227
+ Colorado, Male,Blunt Injury,Transplanted,Liver,51
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,33
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,21
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,12
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,57
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,32
+ Florida, Male,Blunt Injury,Transplanted,Liver,277
+ Florida, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,182
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,123
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,103
+ Hawaii, Male,Blunt Injury,Transplanted,Liver,15
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,7
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,111
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,87
+ Indiana, Male,Blunt Injury,Transplanted,Liver,74
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,42
+ Iowa, Male,Blunt Injury,Transplanted,Liver,24
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,15
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,78
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,58
+ Kentucky, Male,Blunt Injury,Transplanted,Liver,42
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,30
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,90
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,67
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,60
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,48
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,92
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,49
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,93
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,79
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,71
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,50
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,40
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,23
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,65
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,65
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,20
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,13
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,30
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,26
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,57
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,19
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,17
+ New Mexico, Female,Blunt Injury,Transplanted,Liver,7
+ New York, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,167
+ New York, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,108
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,109
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,90
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,141
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,93
+ Oklahoma, Male,Blunt Injury,Transplanted,Liver,41
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,26
+ Oregon, Male,Gunshot Wound,Transplanted,Liver,31
+ Oregon, Female,Blunt Injury,Transplanted,Liver,25
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,243
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,171
+ Puerto Rico, Male,Blunt Injury,Transplanted,Liver,56
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,28
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,47
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,38
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,143
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,104
+ Texas, Male,Blunt Injury,Transplanted,Liver,275
+ Texas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,199
+ Utah, Male,Blunt Injury,Transplanted,Liver,31
+ Utah, Female,Blunt Injury,Transplanted,Liver,19
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,71
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,48
+ Washington, Male,Blunt Injury,Transplanted,Liver,49
+ Washington, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,48
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Transplanted,Liver,74
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Transplanted,Liver,52
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Arizona, Male,Blunt Injury,Transplanted,Intestine,0
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Arkansas, Male,Blunt Injury,Transplanted,Intestine,0
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ California, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ California, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,4
+ Colorado, Male,Blunt Injury,Transplanted,Intestine,1
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Florida, Male,Blunt Injury,Transplanted,Intestine,9
+ Florida, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Hawaii, Male,Blunt Injury,Transplanted,Intestine,0
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ Indiana, Male,Blunt Injury,Transplanted,Intestine,8
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Iowa, Male,Blunt Injury,Transplanted,Intestine,2
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Kentucky, Male,Blunt Injury,Transplanted,Intestine,0
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ New Mexico, Female,Blunt Injury,Transplanted,Intestine,0
+ New York, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ New York, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Oklahoma, Male,Blunt Injury,Transplanted,Intestine,2
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Oregon, Male,Gunshot Wound,Transplanted,Intestine,0
+ Oregon, Female,Blunt Injury,Transplanted,Intestine,0
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Puerto Rico, Male,Blunt Injury,Transplanted,Intestine,0
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,5
+ Texas, Male,Blunt Injury,Transplanted,Intestine,2
+ Texas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,2
+ Utah, Male,Blunt Injury,Transplanted,Intestine,1
+ Utah, Female,Blunt Injury,Transplanted,Intestine,2
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,0
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,3
+ Washington, Male,Blunt Injury,Transplanted,Intestine,0
+ Washington, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Transplanted,Intestine,1
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,14
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,13
+ Arizona, Male,Blunt Injury,Transplanted,Heart,34
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,11
+ Arkansas, Male,Blunt Injury,Transplanted,Heart,17
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,2
+ California, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,189
+ California, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,87
+ Colorado, Male,Blunt Injury,Transplanted,Heart,32
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,15
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,12
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,4
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,17
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,7
+ Florida, Male,Blunt Injury,Transplanted,Heart,113
+ Florida, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,61
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,66
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,29
+ Hawaii, Male,Blunt Injury,Transplanted,Heart,0
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,0
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,45
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,31
+ Indiana, Male,Blunt Injury,Transplanted,Heart,38
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,23
+ Iowa, Male,Blunt Injury,Transplanted,Heart,13
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,5
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,38
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,26
+ Kentucky, Male,Blunt Injury,Transplanted,Heart,15
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,8
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,31
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,13
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,27
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,13
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,35
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,20
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,51
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,35
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,31
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,16
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,17
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,10
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,27
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,21
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,5
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,3
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,10
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,10
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,28
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,9
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,4
+ New Mexico, Female,Blunt Injury,Transplanted,Heart,2
+ New York, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,72
+ New York, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,27
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,51
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,27
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,65
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,30
+ Oklahoma, Male,Blunt Injury,Transplanted,Heart,19
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,13
+ Oregon, Male,Gunshot Wound,Transplanted,Heart,17
+ Oregon, Female,Blunt Injury,Transplanted,Heart,8
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,97
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,52
+ Puerto Rico, Male,Blunt Injury,Transplanted,Heart,22
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,2
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,22
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,13
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,66
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,25
+ Texas, Male,Blunt Injury,Transplanted,Heart,170
+ Texas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,65
+ Utah, Male,Blunt Injury,Transplanted,Heart,22
+ Utah, Female,Blunt Injury,Transplanted,Heart,7
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,24
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,13
+ Washington, Male,Blunt Injury,Transplanted,Heart,36
+ Washington, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,22
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Transplanted,Heart,35
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Transplanted,Heart,16
+ Alabama, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,15
+ Alabama, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,9
+ Arizona, Male,Blunt Injury,Transplanted,Lungs,40
+ Arizona, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,14
+ Arkansas, Male,Blunt Injury,Transplanted,Lungs,13
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,19
+ California, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,246
+ California, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,135
+ Colorado, Male,Blunt Injury,Transplanted,Lungs,20
+ Colorado, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,14
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,6
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,4
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,36
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,16
+ Florida, Male,Blunt Injury,Transplanted,Lungs,101
+ Florida, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,95
+ Georgia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,71
+ Georgia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,48
+ Hawaii, Male,Blunt Injury,Transplanted,Lungs,0
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,4
+ Illinois, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,46
+ Illinois, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,25
+ Indiana, Male,Blunt Injury,Transplanted,Lungs,30
+ Indiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,29
+ Iowa, Male,Blunt Injury,Transplanted,Lungs,14
+ Iowa, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,4
+ Kansas, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,49
+ Kansas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,36
+ Kentucky, Male,Blunt Injury,Transplanted,Lungs,19
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,14
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,55
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,33
+ Maryland, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,43
+ Maryland, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,23
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,34
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,28
+ Michigan, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,47
+ Michigan, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,54
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,33
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,21
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,22
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,9
+ Missouri, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,63
+ Missouri, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,65
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,8
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,4
+ Nevada, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,8
+ Nevada, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,20
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,26
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,12
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,7
+ New Mexico, Female,Blunt Injury,Transplanted,Lungs,1
+ New York, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,29
+ New York, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,22
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,69
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,61
+ Ohio, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,50
+ Ohio, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,58
+ Oklahoma, Male,Blunt Injury,Transplanted,Lungs,27
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,17
+ Oregon, Male,Gunshot Wound,Transplanted,Lungs,21
+ Oregon, Female,Blunt Injury,Transplanted,Lungs,6
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,87
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,77
+ Puerto Rico, Male,Blunt Injury,Transplanted,Lungs,27
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,9
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,27
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,16
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,70
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,32
+ Texas, Male,Blunt Injury,Transplanted,Lungs,201
+ Texas, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,134
+ Utah, Male,Blunt Injury,Transplanted,Lungs,18
+ Utah, Female,Blunt Injury,Transplanted,Lungs,8
+ Virginia, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,28
+ Virginia, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,24
+ Washington, Male,Blunt Injury,Transplanted,Lungs,32
+ Washington, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,26
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,22
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,Transplanted,Lungs,33
+ Alabama, Male,Intracranial Hemorrhage / Stroke,EstPop,All,2337239
+ Alabama, Female,Intracranial Hemorrhage / Stroke,EstPop,All,2480289
+ Arizona, Male,Blunt Injury,EstPop,All,3257757
+ Arizona, Female,Intracranial Hemorrhage / Stroke,EstPop,All,3293392
+ Arkansas, Male,Blunt Injury,EstPop,All,1448951
+ Arkansas, Female,Intracranial Hemorrhage / Stroke,EstPop,All,1500877
+ California, Male,Intracranial Hemorrhage / Stroke,EstPop,All,18895965
+ California, Female,Intracranial Hemorrhage / Stroke,EstPop,All,19103913
+ Colorado, Male,Blunt Injury,EstPop,All,2604770
+ Colorado, Female,Intracranial Hemorrhage / Stroke,EstPop,All,2584688
+ Connecticut, Male,Intracranial Hemorrhage / Stroke,EstPop,All,1750881
+ Connecticut, Female,Intracranial Hemorrhage / Stroke,EstPop,All,1840884
+ District of Columbia, Male,Intracranial Hemorrhage / Stroke,EstPop,All,299696
+ District of Columbia, Female,Intracranial Hemorrhage / Stroke,EstPop,All,333731
+ Florida, Male,Blunt Injury,EstPop,All,9447319
+ Florida, Female,Intracranial Hemorrhage / Stroke,EstPop,All,9873430
+ Georgia, Male,Intracranial Hemorrhage / Stroke,EstPop,All,4848124
+ Georgia, Female,Intracranial Hemorrhage / Stroke,EstPop,All,5067522
+ Hawaii, Male,Blunt Injury,EstPop,All,700502
+ Hawaii, Female,Intracranial Hemorrhage / Stroke,EstPop,All,689588
+ Illinois, Male,Intracranial Hemorrhage / Stroke,EstPop,All,6315958
+ Illinois, Female,Intracranial Hemorrhage / Stroke,EstPop,All,6552234
+ Indiana, Male,Blunt Injury,EstPop,All,3218520
+ Indiana, Female,Intracranial Hemorrhage / Stroke,EstPop,All,3319262
+ Iowa, Male,Blunt Injury,EstPop,All,1524910
+ Iowa, Female,Intracranial Hemorrhage / Stroke,EstPop,All,1550129
+ Kansas, Male,Intracranial Hemorrhage / Stroke,EstPop,All,1435458
+ Kansas, Female,Intracranial Hemorrhage / Stroke,EstPop,All,1449940
+ Kentucky, Male,Blunt Injury,EstPop,All,2155895
+ Kentucky, Female,Intracranial Hemorrhage / Stroke,EstPop,All,2223835
+ Louisiana, Male,Intracranial Hemorrhage / Stroke,EstPop,All,2252408
+ Louisiana, Female,Intracranial Hemorrhage / Stroke,EstPop,All,2349726
+ Maryland, Male,Intracranial Hemorrhage / Stroke,EstPop,All,2851828
+ Maryland, Female,Intracranial Hemorrhage / Stroke,EstPop,All,3033040
+ Massachusetts, Male,Intracranial Hemorrhage / Stroke,EstPop,All,3219920
+ Massachusetts, Female,Intracranial Hemorrhage / Stroke,EstPop,All,3425383
+ Michigan, Male,Intracranial Hemorrhage / Stroke,EstPop,All,4850801
+ Michigan, Female,Intracranial Hemorrhage / Stroke,EstPop,All,5031718
+ Minnesota, Male,Intracranial Hemorrhage / Stroke,EstPop,All,2672357
+ Minnesota, Female,Intracranial Hemorrhage / Stroke,EstPop,All,2707289
+ Mississippi, Male,Intracranial Hemorrhage / Stroke,EstPop,All,1451645
+ Mississippi, Female,Intracranial Hemorrhage / Stroke,EstPop,All,1534805
+ Missouri, Male,Intracranial Hemorrhage / Stroke,EstPop,All,2952485
+ Missouri, Female,Intracranial Hemorrhage / Stroke,EstPop,All,3072037
+ Nebraska, Male,Intracranial Hemorrhage / Stroke,EstPop,All,922123
+ Nebraska, Female,Intracranial Hemorrhage / Stroke,EstPop,All,933227
+ Nevada, Male,Intracranial Hemorrhage / Stroke,EstPop,All,1388773
+ Nevada, Female,Intracranial Hemorrhage / Stroke,EstPop,All,1365581
+ New Jersey, Male,Intracranial Hemorrhage / Stroke,EstPop,All,4325310
+ New Jersey, Female,Intracranial Hemorrhage / Stroke,EstPop,All,4542439
+ New Mexico, Male,Intracranial Hemorrhage / Stroke,EstPop,All,1031829
+ New Mexico, Female,Blunt Injury,EstPop,All,1051711
+ New York, Male,Intracranial Hemorrhage / Stroke,EstPop,All,9494639
+ New York, Female,Intracranial Hemorrhage / Stroke,EstPop,All,10081486
+ North Carolina, Male,Intracranial Hemorrhage / Stroke,EstPop,All,4750263
+ North Carolina, Female,Intracranial Hemorrhage / Stroke,EstPop,All,4998101
+ Ohio, Male,Intracranial Hemorrhage / Stroke,EstPop,All,5647226
+ Ohio, Female,Intracranial Hemorrhage / Stroke,EstPop,All,5905805
+ Oklahoma, Male,Blunt Injury,EstPop,All,1889507
+ Oklahoma, Female,Intracranial Hemorrhage / Stroke,EstPop,All,1926273
+ Oregon, Male,Gunshot Wound,EstPop,All,1929561
+ Oregon, Female,Blunt Injury,EstPop,All,1970240
+ Pennsylvania, Male,Intracranial Hemorrhage / Stroke,EstPop,All,6232018
+ Pennsylvania, Female,Intracranial Hemorrhage / Stroke,EstPop,All,6532457
+ Puerto Rico, Male,Blunt Injury,EstPop,All,3725789
+ Puerto Rico, Female,Intracranial Hemorrhage / Stroke,EstPop,All,3725789
+ South Carolina, Male,Intracranial Hemorrhage / Stroke,EstPop,All,2298812
+ South Carolina, Female,Intracranial Hemorrhage / Stroke,EstPop,All,2424605
+ Tennessee, Male,Intracranial Hemorrhage / Stroke,EstPop,All,3149097
+ Tennessee, Female,Intracranial Hemorrhage / Stroke,EstPop,All,3305817
+ Texas, Male,Blunt Injury,EstPop,All,12948171
+ Texas, Female,Intracranial Hemorrhage / Stroke,EstPop,All,13112625
+ Utah, Male,Blunt Injury,EstPop,All,1435471
+ Utah, Female,Blunt Injury,EstPop,All,1419400
+ Virginia, Male,Intracranial Hemorrhage / Stroke,EstPop,All,4023398
+ Virginia, Female,Intracranial Hemorrhage / Stroke,EstPop,All,4163230
+ Washington, Male,Blunt Injury,EstPop,All,3440311
+ Washington, Female,Intracranial Hemorrhage / Stroke,EstPop,All,3455007
+ Wisconsin, Male,Intracranial Hemorrhage / Stroke,EstPop,All,2842225
+ Wisconsin, Female,Intracranial Hemorrhage / Stroke,EstPop,All,2882329

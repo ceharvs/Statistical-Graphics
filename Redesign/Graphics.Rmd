@@ -1,0 +1,120 @@
+---
+title: "Redesign"
+author: "Christine Harvey"
+date: "Thursday, October 30, 2014"
+output: html_document
+---
+
+Data Redesign
+
+Data Injest
+
+```{r}
+library(ggplot2)
+library(scales)
+setwd("C:/Users/ceharvey/Documents/Personal/School/Statistical-Graphics/Redesign")
+
+data = read.csv("Data.csv")
+data$State <- factor(data$State, levels = rev(levels(data$State)))
+data$Gender <- factor(data$Gender)
+data$Region <- factor(data$Region)
+data$LeadingDeathMechanism <- factor(data$LeadingDeathMechanism)
+
+```
+
+Donors per state, colored by gender, shape by death mechanism
+
+```{r}
+p <- ggplot(data, aes(Donors, State, color=Gender, shape = LeadingDeathMechanism))+geom_point()
+p+labs(y = "State", x="Number of Donors in 2012")
+```
+
+Donors per state relative to population, colored by gender
+
+```{r}
+p <- ggplot(data, aes(Donors/EstPop, State, color=Gender, shape = LeadingDeathMechanism))+geom_point()
+p+labs(y = "State", x="Number of Donors in 2012")
+```
+
+Recovered Organs per state, colored by gender
+
+```{r}
+p <- ggplot(data, aes(AllRecovered, State, color=Gender))+geom_point()
+p+labs(y = "State", x="Recovered Organs in 2012")
+```
+
+Transplanted Organs per state, colored by gender
+
+```{r}
+p <- ggplot(data, aes(AllTransplanted, State, color=Gender))+geom_point()
+p+labs(y = "State", x="Transplanted Organs in 2012")
+```
+
+Transplanted/Donated Organs per state, colored by gender
+
+```{r}
+p <- ggplot(data, aes(AllTransplanted/AllRecovered, State, color=Gender))+geom_point()
+p+labs(y = "State", x="Transplanted/Recovered in 2012")
+```
+
+Donors per state, colored by gender, shape by death mechanism
+
+```{r}
+p <- ggplot(data, aes(Donors, State, color=Gender, shape = LeadingDeathMechanism))+geom_point()
+p+labs(y = "State", x="Number of Donors in 2012")+facet_grid(. ~ Gender, scales = "free")
+```
+
+Donors per state relative to population, colored by gender
+
+```{r}
+newdata <- data[ which((data$Gender=='Male' | data$Gender=='Female')), ]
+p <- ggplot(newdata, aes(Donors/EstPop, State, color=Gender, shape = LeadingDeathMechanism))+geom_point()
+p+labs(y = "State", x="Number of Donors in 2012")+facet_grid(. ~ Gender, scales = "free")
+```
+
+Recovered Organs per state, colored by gender
+
+```{r}
+newdata <- data[ which((data$Gender=='Male' | data$Gender=='Female')), ]
+p <- ggplot(data, aes(AllRecovered, State, color=Gender))+geom_point()
+p+labs(y = "State", x="Recovered Organs in 2012")+facet_grid(. ~ Gender, scales = "free")
+```
+
+Transplanted Organs per state, colored by gender
+
+```{r}
+p <- ggplot(data, aes(AllTransplanted, State, color=Gender))+geom_point()
+p+labs(y = "State", x="Transplanted Organs in 2012")+facet_grid(. ~ Gender, scales = "free")
+```
+
+Transplanted/Donated Organs per state, colored by gender
+
+```{r}
+p <- ggplot(data, aes(AllTransplanted/AllRecovered, State, color=Gender))+geom_point()
+p+labs(y = "State", x="Transplanted/Recovered in 2012")+facet_grid(. ~ Gender, scales = "free")
+```
+
+Recovered per Donor, colored by gender
+
+```{r}
+# The palette with black:
+cbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#FF99FF", "#0072B2", "#D55E00", "#CC79A7")
+p <- ggplot(data, aes(data$RecPerDonor, reorder(State, AllRecPerDonor), color=Region, shape=LeadingDeathMechanism))+geom_point(size=3.5)
+p+labs(y = "State", x="Organs Recovered Per Donor in 2012")+facet_grid(. ~ Gender)+ theme(title = element_text(size=16, face="bold"),strip.text.x = element_text(size=14, face="bold"), strip.text.y = element_text(size=12), axis.title.x = element_text(face="bold", size=14), axis.text.x  = element_text(vjust=0.5, size=12), axis.title.y = element_text(face="bold", size=14), axis.text.y  = element_text(size=14), legend.text = element_text( size=14), legend.title = element_text( size=14))+scale_colour_manual(values=cbPalette)
+```
+
+Transplanted per Donor, colored by gender
+
+```{r}
+p <- ggplot(data, aes(data$TransPerDonor, reorder(State, AllTransPerDonor), color=Region, shape=LeadingDeathMechanism))+geom_point(size = 3.5)
+p+labs(y = "State", x="Organs Transplanted Per Donor in 2012")+facet_grid(. ~ Gender) + theme(title = element_text(size=16, face="bold"),strip.text.x = element_text(size=14, face="bold"), strip.text.y = element_text(size=12), axis.title.x = element_text(face="bold", size=14), axis.text.x  = element_text(vjust=0.5, size=12), axis.title.y = element_text(face="bold", size=14), axis.text.y  = element_text(size=14), legend.text = element_text( size=14), legend.title = element_text( size=14))+scale_colour_manual(values=cbPalette)
+
+```
+
+
+Transplanted/Donated Organs per state
+
+```{r}
+p <- ggplot(data, aes(AllTransplanted/AllRecovered, reorder(State, AllTransPerRecover), color=Region, shape=LeadingDeathMechanism))+geom_point(size = 3.5)
+p+labs(y = "State", x="Transplanted/Recovered in 2012")+facet_grid(. ~ Gender) + theme(title = element_text(size=16, face="bold"),strip.text.x = element_text(size=14, face="bold"), strip.text.y = element_text(size=12), axis.title.x = element_text(face="bold", size=14), axis.text.x  = element_text(vjust=0.5, size=12), axis.title.y = element_text(face="bold", size=14), axis.text.y  = element_text(size=14), legend.text = element_text( size=14), legend.title = element_text( size=14))+scale_colour_manual(values=cbPalette)
+```
