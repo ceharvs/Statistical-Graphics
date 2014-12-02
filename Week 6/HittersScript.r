@@ -198,7 +198,7 @@ plot(rx,ry,type='n',axes=FALSE,xlab='',
 
 # Add points
 # Note this plots the first variable at the top 
-for (j in 0:n){
+for (j in 0:500){
    points(rep(j,j+1),21-varInd[subs(j+1)],pch=21,bg="red",cex=1.5)
    abline(h=c(4.5,8.5,12.5,16.5),col=gray(.8)) 
    abline(v=c(2.5,5.5), col=gray(.8))

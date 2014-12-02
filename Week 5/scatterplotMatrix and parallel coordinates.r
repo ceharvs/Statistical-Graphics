@@ -228,6 +228,7 @@ pairs(ozone, upper.panel=panel.persp,
 pairs(ozone, panel=points,
       diag.panel=panel.hist, 
       gap=0, las=1, pch=21, bg=rgb(0,.8,1),
+      labels=c("Ozone (ppb)","Radiation(lang)", "Temperature (deg F)", "Wind Speed (mph)"),
       cex=1.1 ,main="Ozone Data")
 
 # It is not easy to think about how the densities

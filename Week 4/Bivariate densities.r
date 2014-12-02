@@ -263,7 +263,7 @@ qplot(DAT[, 1], DAT[, 2], shape=I(19),size=I(2),
 # In computer graphics environment this could
 # be implemented with texture mapping. 
 
-ggplot(df,aes(x=x,y=y))+
+ggplot(DAT,aes(x=x,y=y))+
   geom_point(size=3.5,color="blue",alpha=.1)+
   geom_point(size=3.0,color="blue",alpha=.1)+
   geom_point(size=2.5,color="blue",alpha=.1)+
@@ -436,7 +436,7 @@ names(bin2d.sm)
 # save the plot in a .png file
 # for later inclusion in a document.
 
-snapshot3d("myfile.png")
+snapshot3d("myfile3.4.png")
 
 # 2.6 Changing the ash binning grid
 # 
@@ -551,7 +551,7 @@ points(.7, .6, cex=2, pch=19, col='black')
 # xbins gives the number of hexagons bins across the x axis.
 # Increasing the number makes the hexagons smaller 
 
-ans <- hbin(DAT[, 1], DAT[, 2], xbins=25)
+ans <- hbin(DAT[, 1], DAT[, 2], xbins=40)
 plot(ans)
 # We can see the three cluster
 

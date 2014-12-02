@@ -60,6 +60,7 @@ Future:     Additions: rotating 3d scatterplot and rgl views
 0. Setup
 
 source("classEDA.r")
+source("classDensity.r")
 library(lattice)
 source("panelLayoutFunctions.r")
 
