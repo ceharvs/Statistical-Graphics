@@ -1,0 +1,19 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\stateBoundaryByAbbrev.txt
+Region_data: \..\data\US_Math_byGrades.csv
+Data_Key: State
+Data_Category: Grade
+Map_Key: null
+
+# Main category and Second category
+Categories: Black;Hispanic
+
+# Basic settings
+Map_Scale: 1.2
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 2003;2005;2007;2009
+

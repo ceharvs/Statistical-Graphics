@@ -62,13 +62,63 @@ if (window.hljs && document.readyState && document.readyState === "complete") {
 <p>Data Injest</p>
 <pre class="r"><code>library(ggplot2)
 library(scales)
-setwd(&quot;C:/Users/ceharvey/Documents/Personal/School/Statistical-Graphics/Redesign&quot;)
+setwd(&quot;C:/Users/chris_000/Documents/school/Statistical-Graphics/Redesign&quot;)
 
 data = read.csv(&quot;Data.csv&quot;)
 data$State &lt;- factor(data$State, levels = rev(levels(data$State)))
 data$Gender &lt;- factor(data$Gender)
 data$Region &lt;- factor(data$Region)
-data$LeadingDeathMechanism &lt;- factor(data$LeadingDeathMechanism)</code></pre>
+data$LeadingDeathMechanism &lt;- factor(data$LeadingDeathMechanism)
+head(data)</code></pre>
+<pre><code>##         State       Gender            LeadingDeathMechanism
+## 1   Wisconsin  All Genders Intracranial Hemorrhage / Stroke
+## 2  Washington  All Genders Intracranial Hemorrhage / Stroke
+## 3    Virginia  All Genders Intracranial Hemorrhage / Stroke
+## 4        Utah  All Genders                     Blunt Injury
+## 5       Texas  All Genders Intracranial Hemorrhage / Stroke
+## 6   Tennessee  All Genders Intracranial Hemorrhage / Stroke
+##            Region Donors AllRecovered KidneysRecovered PancreasRecovered
+## 1         Midwest    192          668              354                 0
+## 2         Pacific    176          624              342                11
+## 3       Southeast    179          599              335                 2
+## 4 Rocky Mountains     83          279              160                31
+## 5       Southwest    656         2357             1157                23
+## 6       Southeast    301         1088              558                 8
+##   LiverRecovered IntestineRecovered HeartsRecovered LungsRecovered
+## 1            153                  2              52             55
+## 2            136                  1              59             60
+## 3            149                  3              38             53
+## 4             53                  3              29             26
+## 5            511                  5             236            338
+## 6            265                  8              92            106
+##   AllTransplanted KidneysTransplanted PancreasTransplanted
+## 1             559                 285                   40
+## 2             525                 294                   17
+## 3             476                 248                   17
+## 4             259                 144                    7
+## 5            2061                 924                   89
+## 6             899                 407                   44
+##   LiverTransplanted IntestineTransplanted HeartsTransplanted
+## 1               126                     2                 51
+## 2                97                     1                 58
+## 3               119                     3                 37
+## 4                50                     3                 29
+## 5               474                     4                235
+## 6               247                     8                 91
+##   LungsTransplanted EstPop RecPerDonor TransPerDonor AllRecPerDonor
+## 1                55     NA       3.479         2.911          3.479
+## 2                58     NA       3.545         2.983          3.545
+## 3                52     NA       3.346         2.659          3.346
+## 4                26     NA       3.361         3.120          3.361
+## 5               335     NA       3.593         3.142          3.593
+## 6               102     NA       3.615         2.987          3.615
+##   AllTransPerDonor AllTransPerRecover
+## 1            2.911             0.8368
+## 2            2.983             0.8413
+## 3            2.659             0.7947
+## 4            3.120             0.9283
+## 5            3.142             0.8744
+## 6            2.987             0.8263</code></pre>
 <p>Donors per state, colored by gender, shape by death mechanism</p>
 <pre class="r"><code>p &lt;- ggplot(data, aes(Donors, State, color=Gender, shape = LeadingDeathMechanism))+geom_point()
 p+labs(y = &quot;State&quot;, x=&quot;Number of Donors in 2012&quot;)</code></pre>

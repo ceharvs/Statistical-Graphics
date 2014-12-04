@@ -1,0 +1,49 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\shapeFile\Fairfax Planning district\PLANNING_DISTRICTS.shp
+Region_data: \..\data\FX_population.csv
+Data_Key: Planning District
+Data_Category: null
+Map_Key: DISTRICT_N
+
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+
+#var select order
+Var_Select_Order: 1980;1990;2000;2009;2010;2015;2020;2025;2030;2035;
+
+
+#RF
+RF_titles: Rising and Falling Map;Fairfax Population
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slidercolors: 0 20 255 ; 160 160 160 ; 255 0 0
+
+
+#TR
+TR_titles: Two Rows Map;Fairfax Population
+TR_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+TR_slider_titles: Percent of Region Years;Rate
+TR_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+TR_Slidercolors: 102 102 255 ; 160 160 160 ; 255 102 102
+
+
+#TDM
+TDM_titles: First and Second Difference Map;Fairfax Population
+TDM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+TDM_slider_titles: 
+TDM_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+TDM_bottomSlidercolors: 59 196 57 ; 160 160 160 ; 153 85 222
+TDM_topSlidercolors: 0 20 255 ; 160 160 160 ; 255 0 0
+TDM_midSlidercolors: 11 127 116 ; 160 160 160 ; 164 95 26
+
+
+#BM
+BM_titles: Binary Map;Fairfax Population
+BM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+BM_slider_titles: Percent of Region Years;Rate
+BM_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+BM_slidercolors: 0 20 255 ; 210 0 210 ; 255 0 0
+
+

@@ -1,0 +1,25 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\shapeFile\Simplified World Map\TM_WORLD_BORDERS_SIMPL-0.3.shp
+Region_data: \..\data\WLD_Sci and tech journal articles(2000_2007).csv
+Data_Key: Country Code
+Data_Category: null
+Map_Key: ISO3
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: Country Code;2000;2001;2002;2003;2004;2005;2006;2007;
+
+
+#RF
+RF_titles: Rising and Falling Map;Sci and tech journal articles, from 2000 to 2007
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 51 102
+
+

@@ -1,0 +1,44 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\stateBoundaryByAbbrev.txt
+Region_data: \..\data\Homicide0307.csv
+Data_Key: ID
+Data_Category: Sex
+Map_Key: null
+
+# Main category and Second category
+Categories: F;M
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 1
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: Age 0;Ages 1-4;Ages 5-9;Ages 10-14;Ages 15-19;
+
+
+#RF
+RF_titles: Male Homicide Rates by Age Group;Graph SubTitle
+RF_title_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RF_slider_titles: Percent of State Age-Groups;Rate
+RF_slider_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RF_slider_value_fonts: Times New Roman,Bold,16;
+RF_sequenceLabel_font: Times New Roman,Bold,16;
+RF_missing_value_color: 80 80 80;
+RF_slider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+RF_slider_percents: 0.033285093;0.8017366
+
+
+#RM
+RM_titles: Male Homicide Rates by Age Group;Graph SubTitle
+RM_title_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RM_slider_titles: Percent of State Age-Groups;Rate
+RM_slider_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RM_slider_value_fonts: Times New Roman,Regular,11;
+RM_sequenceLabel_font: Times New Roman,Regular,14;
+RM_missing_value_color: 180 180 180;
+RM_slider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+RM_slider_percents: 0.33;0.33
+
+

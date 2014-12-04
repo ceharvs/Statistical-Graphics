@@ -1,0 +1,45 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\stateBoundaryByAbbrev.txt
+Region_data: \..\data\Homicide0307.csv
+Data_Key: ID
+Data_Category: Sex
+Map_Key: null
+
+# Main category and Second category
+Categories: F;M
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: Ages 15-19;Ages 20-24;Ages 25-29;Ages 30-34;Ages 35-39;Ages 40-44;Ages 45-49;Ages 50-54;Ages 55-59;Ages 60-64;Ages 65-69;Ages 70-74;
+
+
+#RF
+RF_titles: Rising and Falling Map: F;Graph SubTitle
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,16
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,14;Times New Roman,Regular,14
+RF_slider_value_fonts: Times New Roman,Regular,11;
+RF_sequenceLabel_font: Times New Roman,Regular,14;
+RF_missing_value_color: 80 80 80;
+RF_slider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+RF_slider_percents: 0.04486252;0.788712
+
+
+#DTS
+DTS_titles: Difference of White Female Homicide Rates for Age Group 20-24 and Age Group 15-19;Difference
+DTS_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,16
+DTS_slider_titles: Percent of Region Years;Homicide Age Specific Death per 100000
+DTS_slider_fonts: Times New Roman,Regular,14;Times New Roman,Regular,14
+DTS_slider_value_fonts: Times New Roman,Regular,11;
+DTS_missing_value_color: 80 80 80;
+DTS_topSlider_colors: 0 153 255 ; 150 150 150 ; 255 0 0
+DTS_topSlider_percents: 0.2611111;0.4722222
+DTS_bottomSlider_colors: 11 127 116 ; 150 150 150 ; 164 95 26
+DTS_bottomSlider_percents: 0.33;0.33
+
+

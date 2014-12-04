@@ -1,0 +1,49 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\MD_countyBoundary_Fips.txt
+Region_data: \..\data\MD_unemployment rate.csv
+Data_Key: Fips
+Data_Category: null
+Map_Key: null
+
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 1
+
+#var select order
+Var_Select_Order: Series ID;2000;2001;2002;2003;2004;2005;2006;2007;2008;2009;
+
+
+#RF
+RF_titles: Rising and Falling Map;Maryland Unemployment rate
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slidercolors: 0 20 255 ; 160 160 160 ; 255 0 0
+
+
+#TR
+TR_titles: Two Rows Map;Maryland Unemployment rate
+TR_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+TR_slider_titles: Percent of Region Years;Rate
+TR_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+TR_Slidercolors: 102 102 255 ; 160 160 160 ; 255 102 102
+
+
+#TDM
+TDM_titles: First and Second Difference Map;Maryland Unemployment rate
+TDM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+TDM_slider_titles: 
+TDM_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+TDM_bottomSlidercolors: 59 196 57 ; 160 160 160 ; 153 85 222
+TDM_topSlidercolors: 0 20 255 ; 160 160 160 ; 255 0 0
+TDM_midSlidercolors: 11 127 116 ; 160 160 160 ; 164 95 26
+
+
+#RM
+RM_titles: Region Movement;Maryland Unemployment rate
+RM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RM_slider_titles: Percent of Region Years;Rate
+RM_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RM_Slidercolors: 0 20 255 ; 210 0 210 ; 255 0 0
+
+

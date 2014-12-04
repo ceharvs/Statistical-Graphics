@@ -1,0 +1,50 @@
+Reference_polygons: null
+Region_polygons: C:\runTCmaps\data\map files\stateBoundaryByAbbrev.txt
+Region_data: C:\runTCmaps\data\US_CancerMortality.csv
+Data_Key: state
+Data_Category: null
+Map_Key: null
+
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+
+#var select order
+Var_Select_Order: 1999;2000;2001;2002;2003;2004;2005;2006;2007;
+
+
+#RF
+RF_titles: Rising and Falling Map;Cancer mortality rate, per 100,000 persons
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slidercolors: 0 20 255 ; 160 160 160 ; 255 0 0
+
+
+#TR
+TR_titles: Two Rows Map;Cancer mortality rate, per 100,000 persons
+TR_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+TR_slider_titles: Percent of Region Years;Rate
+TR_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+TR_Slidercolors: 102 102 255 ; 160 160 160 ; 255 102 102
+
+
+#TDM
+TDM_titles: First and Second Difference Map;Cancer mortality rate, per 100,000 persons
+TDM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+TDM_slider_titles: 
+TDM_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+TDM_topSlidercolors: 0 20 255 ; 160 160 160 ; 255 0 0
+TDM_midSlidercolors: 11 127 116 ; 160 160 160 ; 164 95 26
+TDM_bottomSlidercolors: 59 196 57 ; 160 160 160 ; 153 85 222
+
+
+#DTS
+DTS_titles: 
+DTS_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+DTS_slider_titles: Percent of Region Years;Rate
+DTS_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+DTS_topSlidercolors: 0 100 255 ; 150 150 150 ; 255 0 0
+DTS_bottomSlidercolors: 0 220 0 ; 150 150 150 ; 210 0 210
+
+

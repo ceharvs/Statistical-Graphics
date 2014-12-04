@@ -1,0 +1,37 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\shapeFile\Continents\continent_SimplifyPolygon1.shp
+Region_data: \..\data\continents_population percent by Age.csv
+Data_Key: Continent
+Data_Category: Age Group
+Map_Key: CONTINENT
+
+# Main category and Second category
+Categories: 0-9;10-19
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 2
+Slider_Scale: linear in percents
+
+#var select order
+Var_Select_Order: 2001;2002;2003;2004;2005;2006;2007;2008;2009;2010;
+
+
+#RF
+RF_titles: Rising and Falling Map;Continents Population Percentage by Age group
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 51 102
+
+
+#RFA
+RFA_titles: Risk Factor Analysis;Continents Population Percentage by Age group
+RFA_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RFA_slider_titles: 
+RFA_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RFA_topSlider_colors: 0 0 0 ; 255 51 102 ; 0 0 0
+RFA_bottomSlider_colors: 0 0 0 ; 0 102 204 ; 0 0 0
+
+

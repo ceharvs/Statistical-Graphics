@@ -1,0 +1,32 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\LA_counties.txt
+Region_data: \..\data\KatrinaRacePC.csv
+Data_Key: ID
+Data_Category: Race
+Map_Key: null
+
+# Main category and Second category
+Categories: black;white
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 2
+Slider_Scale: linear in percents
+
+#var select order
+Var_Select_Order: 2003;2004;2005;2006;2007;
+
+
+#RF
+RF_titles: Lousianna Black Population Percent Change;Hurricanes Katrina and Rita Occurred After the 2005 Census
+RF_title_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RF_slider_titles: Percent of Parish-Years;Yearly Percent Change
+RF_slider_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RF_slider_value_fonts: Times New Roman,Bold,16;
+RF_sequenceLabel_font: Times New Roman,Regular,18;
+RF_missing_value_color: 80 80 80;
+RF_slider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+RF_slider_percents: 0.075253256;0.23299566
+
+

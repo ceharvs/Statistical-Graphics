@@ -1,0 +1,64 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\VA_countyBoundary_Fips.txt
+Region_data: \..\data\VA_Average wages.csv
+Data_Key: Series ID
+Data_Category: null
+Map_Key: null
+
+# Basic settings
+Map_Scale: 1.5
+Data_Scale: 0.009999999776482582
+Data_Digits: 1
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 2001;2005;2009;
+
+
+#RF
+RF_titles: Rising and Falling Map;Virginia Average Salary
+RF_title_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RF_slider_titles: Percent of Region Years;Thousand Dollars
+RF_slider_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RF_slider_value_fonts: Tahoma,Bold,14;
+RF_sequenceLabel_font: Times New Roman,Bold,16;
+RF_missing_value_color: 228 224 220;
+RF_slider_colors: 0 153 255 ; 160 160 160 ; 255 51 102
+RF_slider_percents: 0.12251656;0.68874174
+
+
+#TSP
+TSP_titles: 
+TSP_title_fonts: Times New Roman,Regular,12;
+TSP_slider_titles: Percent of Region Years;Thousand Dollars
+TSP_slider_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+TSP_slider_value_fonts: Times New Roman,Bold,16;
+TSP_missing_value_color: 80 80 80;
+TSP_slider_colors: 0 153 255 ; 153 153 153 ; 255 0 0
+TSP_slider_percents: 0.33;0.33
+
+
+#RM
+RM_titles: Cognostic View;R-Squared = 83.03 %
+RM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,16
+RM_slider_titles: Percent of Region Years;Thousand Dollars
+RM_slider_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RM_slider_value_fonts: Times New Roman,Bold,16;
+RM_sequenceLabel_font: Times New Roman,Regular,18;
+RM_missing_value_color: 180 180 180;
+RM_slider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+RM_slider_percents: 0.30352303;0.45257452
+
+
+#RM
+RM_titles: Cognostic View; R-Squared = 63.80 %
+RM_title_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RM_slider_titles: Percent of Region Years;Thousand Dollars
+RM_slider_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RM_slider_value_fonts: Times New Roman,Bold,16;
+RM_sequenceLabel_font: Times New Roman,Bold,16;
+RM_missing_value_color: 180 180 180;
+RM_slider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+RM_slider_percents: 0.14905149;0.7398374
+
+

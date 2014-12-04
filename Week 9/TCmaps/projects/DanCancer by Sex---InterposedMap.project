@@ -1,0 +1,47 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\stateBoundaryByAbbrev.txt
+Region_data: \..\data\US_CancerMortality_byGender.csv
+Data_Key: State
+Data_Category: Gender
+Map_Key: null
+
+# Main category and Second category
+Categories: Male;Female
+
+# Basic settings
+Map_Scale: 0.9
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 1999;2003;2007;
+
+
+#RF
+RF_titles: Rising and Falling Map;Male Cancer Mortality Rates: Selected Years
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,16
+RF_slider_titles: Percent of Region Years;Deaths Per 100,000
+RF_slider_fonts: Times New Roman,Bold,14;Times New Roman,Bold,14
+RF_slider_value_fonts: Times New Roman,Bold,14;
+RF_sequenceLabel_font: Times New Roman,Bold,15;
+RF_missing_value_color: 80 80 80;
+RF_slider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+RF_slider_percents: 0.33011582;0.43629342
+
+
+#TWIM
+TWIM_titles: All Cancer Age-Adjusted Mortality Rates;Interposed Change Plot
+TWIM_title_fonts: Arial,Regular,20;Arial,Regular,20
+TWIM_slider_titles: Percent of Region Years;Deaths Per 100,000
+TWIM_slider_fonts: Arial,Bold,16;Arial,Bold,16
+TWIM_slider_value_fonts: Arial,Bold,14;
+TWIM_sequenceLabel_font: Arial,Bold,16;
+TWIM_category_font: Arial,Bold,16;
+TWIM_missing_value_color: 153 153 153;
+TWIM_slider_colors: 83 123 255 ; 210 210 210 ; 255 0 0
+TWIM_slider_percents: 0.49100256;0.35989717
+TWIM_low_mixed_color: 185 211 255;
+TWIM_high_mixed_color: 255 190 190;
+
+

@@ -12,13 +12,14 @@ Data Injest
 ```{r}
 library(ggplot2)
 library(scales)
-setwd("C:/Users/ceharvey/Documents/Personal/School/Statistical-Graphics/Redesign")
+setwd("C:/Users/chris_000/Documents/school/Statistical-Graphics/Redesign")
 
 data = read.csv("Data.csv")
 data$State <- factor(data$State, levels = rev(levels(data$State)))
 data$Gender <- factor(data$Gender)
 data$Region <- factor(data$Region)
 data$LeadingDeathMechanism <- factor(data$LeadingDeathMechanism)
+head(data)
 
 ```
 

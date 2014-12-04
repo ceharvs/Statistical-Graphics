@@ -1,0 +1,31 @@
+Reference_polygons: null
+Region_polygons: C:\runTCmaps\data\map files\stateBoundaryByAbbrev.txt
+Region_data: C:\runTCmaps\data\US_Math_grd4.csv
+Data_Key: Region
+Data_Category: null
+Map_Key: null
+
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+
+#var select order
+Var_Select_Order: Region;2000;2003;2005;2007;2009;
+
+
+#RF
+RF_titles: Rising and Falling Map;Average Mathematics scale score, grade 4 public schools
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 51 102
+
+
+#TR
+TR_titles: Two Rows Map;Average Mathematics scale score, grade 4 public schools
+TR_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+TR_slider_titles: Percent of Region Years;Rate
+TR_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+TR_slider_colors: 102 102 255 ; 160 160 160 ; 255 102 102
+
+

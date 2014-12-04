@@ -1,0 +1,44 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\stateBoundaryByAbbrev.txt
+Region_data: \..\data\US_CancerMortality_byGender.csv
+Data_Key: State
+Data_Category: Gender
+Map_Key: NAME1_
+
+# Main category and Second category
+Categories: Female;Male
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 1999;2003;2007;
+
+
+#RF
+RF_titles: Rising and Falling Map;Cancer Mortality by Sex, per 100,000 persons
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_value_fonts: Times New Roman,Regular,11;
+RF_sequenceLabel_font: Times New Roman,Regular,14;
+RF_missing_value_color: 80 80 80;
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 51 102
+RF_slider_percents: 0.5664939;0.328152
+
+
+#RM
+RM_titles: White Female Cancer Mortality Rate;Stratfied map
+RM_title_fonts: Arial,Bold,16;Arial,Bold,16
+RM_slider_titles: Percent of Region Years;Death per 100,000 persons
+RM_slider_fonts: Arial,Bold,14;Arial,Bold,14
+RM_slider_value_fonts: Arial,Bold,11;
+RM_sequenceLabel_font: Arial,Bold,14;
+RM_missing_value_color: 255 255 102;
+RM_slider_colors: 0 153 255 ; 190 190 190 ; 255 0 0
+RM_slider_percents: 0.48064515;0.27419356
+
+

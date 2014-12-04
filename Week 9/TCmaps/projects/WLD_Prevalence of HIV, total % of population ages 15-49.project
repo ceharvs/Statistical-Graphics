@@ -1,0 +1,25 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\shapeFile\Simplified World Map\TM_WORLD_BORDERS_SIMPL-0.3.shp
+Region_data: \..\data\WLD_Prevalence of HIV, total % of population ages 15-49(2001_2007).csv
+Data_Key: Country Code
+Data_Category: null
+Map_Key: ISO3
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 1
+Slider_Scale: linear in percents
+
+#var select order
+Var_Select_Order: 2001;2002;2003;2004;2005;2006;2007;
+
+
+#RF
+RF_titles: Rising and Falling Map;Prevalence of HIV, total % of population, Ages 15-49
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 0 0
+
+

@@ -1,0 +1,17 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\stateBoundaryByAbbrev.txt
+Region_data: \..\data\maleHomicide0307.csv
+Data_Key: ID
+Data_Category: null
+Map_Key: null
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: -1
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 
+
+

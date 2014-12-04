@@ -1,0 +1,20 @@
+Reference_polygons: null
+Region_polygons: 
+Region_data: \..\data\NDVI_Image.csv
+Data_Key: latt
+Data_Category: Year
+Map_Key: null
+
+# Main category and Second category
+Categories: null;null
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: -1
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 
+
+
