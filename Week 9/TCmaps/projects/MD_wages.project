@@ -1,0 +1,47 @@
+Reference_polygons: \..\data\map files\MD_border.txt
+Region_polygons: \..\data\map files\MD_countyBoundary_Fips.txt
+Region_data: \..\data\MD_Average wages.csv
+Data_Key: Fips
+Data_Category: null
+Map_Key: null
+
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+
+#var select order
+Var_Select_Order: 2001;2002;2003;2004;2005;2006;2007;2008;2009;
+
+
+#RF
+RF_titles: Rising and Falling Map;Maryland Average Salary
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slidercolors: 0 20 255 ; 160 160 160 ; 255 0 0
+
+
+#BM
+BM_titles: Binary Map;Maryland Average Salary
+BM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+BM_slider_titles: Percent of Region Years;Rate
+BM_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+BM_slidercolors: 0 20 255 ; 210 0 210 ; 255 0 0
+
+
+#TR
+TR_titles: Two Rows Map;Maryland Average Salary
+TR_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+TR_slider_titles: Percent of Region Years;Rate
+TR_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+TR_Slidercolors: 102 102 255 ; 160 160 160 ; 255 102 102
+
+
+#RM
+RM_titles: Region Movement;Maryland Average Salary
+RM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RM_slider_titles: Percent of Region Years;Rate
+RM_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RM_Slidercolors: 0 20 255 ; 210 0 210 ; 255 0 0
+
+

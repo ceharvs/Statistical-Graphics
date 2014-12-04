@@ -1,0 +1,37 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\shapeFile\USA\USSTATE.SHP
+Region_data: \..\data\US_Math_grd8_by_sex.csv
+Data_Key: Region
+Data_Category: Sex
+Map_Key: NAME1_
+
+# Main category and Second category
+Categories: Female;Male
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 2000;2003;2005;2007;2009;
+
+
+#RF
+RF_titles: Rising and Falling Map;Math, Grade 8, by Sex
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 51 102
+
+
+#RFA
+RFA_titles: Risk Factor Analysis;Math, Grade 8, by Sex
+RFA_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RFA_slider_titles: 
+RFA_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RFA_topSlider_colors: null ; 255 51 102 ; null
+RFA_bottomSlider_colors: null ; 0 102 204 ; null
+
+

@@ -1,0 +1,37 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\shapeFile\USA\USSTATE.SHP
+Region_data: \..\data\US_Reading_byGrades.csv
+Data_Key: Region
+Data_Category: Grade
+Map_Key: NAME1_
+
+# Main category and Second category
+Categories: Grade4;Grade8
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 2003;2005;2007;2009;
+
+
+#RF
+RF_titles: Rising and Falling Map;Reading by Grades, grade 4 and grade 8
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 51 102
+
+
+#RFA
+RFA_titles: Risk Factor Analysis;Reading by Grades, grade 4 and grade 8
+RFA_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RFA_slider_titles: 
+RFA_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RFA_topSlider_colors: null ; 255 51 102 ; null
+RFA_bottomSlider_colors: null ; 0 102 204 ; null
+
+

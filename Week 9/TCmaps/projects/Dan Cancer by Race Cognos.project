@@ -1,0 +1,58 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\shapeFile\USA\USSTATE.SHP
+Region_data: \..\data\US_CancerMortality_byRace.csv
+Data_Key: State
+Data_Category: Race
+Map_Key: NAME1_
+
+# Main category and Second category
+Categories: Black;Hispanic
+
+# Basic settings
+Map_Scale: 1.2
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 1999;2003;2007;
+
+
+#RF
+RF_titles: Rising and Falling Map;Black Cancer Mortality Rates: Selected Years
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,16
+RF_slider_titles: Percent of Region Years;Deaths Per 100,000
+RF_slider_fonts: Times New Roman,Bold,14;Times New Roman,Bold,14
+RF_slider_value_fonts: Times New Roman,Bold,14;
+RF_sequenceLabel_font: Times New Roman,Bold,15;
+RF_missing_value_color: 80 80 80;
+RF_slider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+RF_slider_percents: 0.42981187;0.4081042
+
+
+#RM
+RM_titles: Cognostic View: Black; R-Squared = 14.42 %
+RM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,16
+RM_slider_titles: Percent of Region Years;Deaths Per 100,000
+RM_slider_fonts: Times New Roman,Regular,14;Times New Roman,Regular,14
+RM_slider_value_fonts: Times New Roman,Regular,11;
+RM_sequenceLabel_font: Times New Roman,Regular,14;
+RM_missing_value_color: 80 80 80;
+RM_slider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+RM_slider_percents: 0.0;0.0
+
+
+#TDM
+TDM_titles: First and Second Difference Map: Black;Black Cancer Mortality Rates: Selected Years
+TDM_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,16
+TDM_slider_value_fonts: Times New Roman,Regular,11;
+TDM_sequenceLabel_font: Times New Roman,Regular,14;
+TDM_missing_value_color: 80 80 80;
+TDM_bottomSlider_colors: 59 196 57 ; 210 210 210 ; 153 85 222
+TDM_bottomSlider_percents: 0.33;0.33
+TDM_topSlider_colors: 0 153 255 ; 210 210 210 ; 255 0 0
+TDM_topSlider_percents: 0.33;0.33
+TDM_midSlider_colors: 11 127 116 ; 210 210 210 ; 164 95 26
+TDM_midSlider_percents: 0.33;0.33
+
+

@@ -1,0 +1,27 @@
+Reference_polygons: null
+Region_polygons: C:\..\data\map files\shapeFile\USA\USSTATE.SHP
+Region_data: C:\..\data\US__Average annual wages.csv
+Data_Key: State
+Data_Category: null
+Map_Key: NAME1_
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 2001;2002;2003;2004;2005;2006;2007;2008;2009;
+
+
+#RF
+RF_titles: Rising and Falling Map;Average Salary
+RF_title_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,18;Times New Roman,Regular,18
+RF_slider_value_fonts: Times New Roman,Bold,16;
+RF_sequenceLabel_font: Times New Roman,Bold,16;
+RF_slider_colors: 0 135 255 ; 200 200 200 ; 255 0 0
+
+

@@ -1,0 +1,46 @@
+Reference_polygons: null
+Region_polygons: C:\runTCmaps\data\map files\shapeFile\USA\USSTATE.SHP
+Region_data: C:\runTCmaps\data\US_CancerMortality_byGender.csv
+Data_Key: State
+Data_Category: Gender
+Map_Key: NAME1_
+
+# Main category and Second category
+Categories: Male;Female
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 1999;2003;2007;
+
+
+#RF
+RF_titles: Rising and Falling Map;Cancer Mortality by Sex, per 100,000 persons
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_value_fonts: Times New Roman,Regular,11;
+RF_sequenceLabel_font: Times New Roman,Regular,14;
+RF_missing_value_color: 80 80 80;
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 51 102
+RF_slider_percents: 0.33;0.33
+
+
+#RFA
+RFA_titles: Cancer Mortality Rate By Sex:  Age-Adjusted Deaths Per 100,000;Linked Filter Sliders and Cross plots: Yellow means both
+RFA_title_fonts: Calibri,Regular,20;Calibri,Regular,20
+RFA_slider_value_fonts: Calibri,Regular,16;
+RFA_sequenceLabel_font: Calibri,Regular,16;
+RFA_category_font: Times New Roman,Regular,16;
+RFA_bottomSlider_colors: 255 255 255 ; 255 0 204 ; 255 255 255
+RFA_bottomSlider_percents: 0.33;0.33
+RFA_topSlider_colors: 255 255 255 ; 80 80 255 ; 255 255 255
+RFA_topSlider_percents: 0.33;0.33
+RFA_combined_color: 255 255 204;
+RFA_shared_sliders: true
+
+

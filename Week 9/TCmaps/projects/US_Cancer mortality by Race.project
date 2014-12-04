@@ -1,0 +1,28 @@
+Reference_polygons: null
+Region_polygons: C:\runTCmaps\data\map files\shapeFile\USA\USSTATE.SHP
+Region_data: C:\runTCmaps\data\US_CancerMortality_byRace.csv
+Data_Key: State
+Data_Category: Race
+Map_Key: NAME1_
+
+# Main category and Second category
+Categories: White;Hispanic
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in data
+
+#var select order
+Var_Select_Order: 1999;2000;2001;2002;2003;2004;2005;2006;2007;
+
+
+#RF
+RF_titles: Rising and Falling Map;Cancer Mortality Rate by Race, from 1999 to 2007
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 51 102
+
+

@@ -1,0 +1,34 @@
+Reference_polygons: null
+Region_polygons: \..\data\map files\VA_countyBoundary_Fips.txt
+Region_data: \..\data\VA_water use.csv
+Data_Key: FIPS
+Data_Category: null
+Map_Key: null
+
+# Basic settings
+Map_Scale: 1.0
+Data_Scale: 1.0
+Data_Digits: 0
+Slider_Scale: linear in percents
+
+#var select order
+Var_Select_Order: 1985;1990;1995;2000;2005;
+
+
+#RF
+RF_titles: Rising and Falling Map;Virginia water use
+RF_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+RF_slider_titles: Percent of Region Years;Rate
+RF_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+RF_slider_colors: 0 20 255 ; 160 160 160 ; 255 51 102
+
+
+#DTS
+DTS_titles: 
+DTS_title_fonts: Times New Roman,Bold,16;Times New Roman,Bold,14
+DTS_slider_titles: Percent of Region Years;Rate
+DTS_slider_fonts: Times New Roman,Regular,12;Times New Roman,Regular,10
+DTS_topSlider_colors: 0 100 255 ; 150 150 150 ; 255 51 102
+DTS_bottomSlider_colors: 0 220 0 ; 150 150 150 ; 210 0 210
+
+
