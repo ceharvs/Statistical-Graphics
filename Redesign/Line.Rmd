@@ -37,7 +37,24 @@ p+labs(y = "Number of Organs", x="Year")+facet_grid(Organ ~ ., scales = "free")+
 
 
 ```{r}
+cbPalette <- c("#000000", "#E69F00", "#56B4E9", "#009E73", "#FF99FF", "#0072B2", "#D55E00", "#CC79A7")
 newdata <- data[ which((data$Organ !='All')), ]
-p <- ggplot(newdata, aes(Year, Value, color=OrganType, shape=Type))+geom_point(size=3)+geom_line()+scale_x_continuous(breaks=seq(1997, 2014, 1))
-p+labs(y = "Number of Organs", x="Year")+ theme(title = element_text(size=18, face="bold"),strip.text.x = element_text(size=16, face="bold"), strip.text.y = element_text(size=14), axis.title.x = element_text(face="bold", size=16), axis.text.x  = element_text(vjust=0.5, size=14, angle=45), axis.title.y = element_text(face="bold", size=16), axis.text.y  = element_text(size=16), legend.text = element_text( size=16), legend.title = element_text( size=16)) + scale_color_brewer(name="Organs Per Donor",palette="Paired")
+p <- ggplot(newdata, aes(Year, Value, color=Organ))+
+  geom_point(size=4, aes(shape=Type))+
+  geom_line(aes(linetype=Type))+
+  scale_x_continuous(breaks=seq(1997, 2014, 1))
+p+labs(y = "Number of Organs", x="Year")+ 
+  theme(title = element_text(size=18, face="bold"),
+        strip.text.x = element_text(size=16, face="bold"), 
+        strip.text.y = element_text(size=14), 
+        axis.title.x = element_text(face="bold", size=16), 
+        axis.text.x  = element_text(vjust=0.5, size=14, angle=45), 
+        axis.title.y = element_text(face="bold", size=16), 
+        axis.text.y  = element_text(size=16), 
+        legend.text = element_text( size=16), 
+        legend.title = element_text( size=16)) + 
+  scale_color_brewer(name="Organs Per Donor",palette="Dark2")+
+  #scale_colour_manual(values=cbPalette) +
+  scale_shape_manual(values=c(1,16)) +
+  scale_linetype_manual(values=c("dashed", "solid"))
 ```
