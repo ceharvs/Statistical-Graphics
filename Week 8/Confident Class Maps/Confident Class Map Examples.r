@@ -3,7 +3,7 @@
 # Copyright 2010, 2011, 2012, 2013, 2014
 #           Class use permitted
 
-setwd("C:/Users/chris_000/Documents/school/Statistical-Graphics/Week 8/Confident Class Maps")
+setwd("C:/Users/ceharvey/Documents/Personal/school/Statistical-Graphics/Week 8/Confident Class Maps")
 Sections
 
 1.  Showing states in oneway tables (lists) and maps

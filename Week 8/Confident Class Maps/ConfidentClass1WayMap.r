@@ -12,7 +12,7 @@ colorFill=rgb(.7,.35,1),
 colorLine = "black",
 backFill= rgb(1,1,.9),
 backLine = gray(.70),
-panelFill = rgb(.9,1,1),
+panel_Fill = rgb(.9,1,1),
 panelLine = gray(.70), 
 cexTitle=1.2,
 cexLabel=1.12,
@@ -46,7 +46,7 @@ if(!is.na(refRegion)) {
 for(j in 1:3){
   panelSelect(panels, 1, j) 
   panelScale(rx, ry)
-  panelFill(col=panelFill) # panel fill
+  panelFill(col=panel_Fill) # panel fill
   panelOutline(col=panelLine)
   polygon(stateVisBorders$x,  stateVisBorders$y, col=backFill,
     border=backLine, lwd=1) # fill and outline

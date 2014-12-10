@@ -12,8 +12,8 @@ Data Injest
 ```{r}
 library(ggplot2)
 library(scales)
-#setwd("C:/Users/ceharvey/Documents/Personal/School/Statistical-Graphics/Redesign")
-setwd("C:/Users/chris_000/Documents/school/Statistical-Graphics/Redesign")
+setwd("C:/Users/ceharvey/Documents/Personal/School/Statistical-Graphics/Redesign")
+#setwd("C:/Users/chris_000/Documents/school/Statistical-Graphics/Redesign")
 
 
 data = read.csv("Line3.csv")

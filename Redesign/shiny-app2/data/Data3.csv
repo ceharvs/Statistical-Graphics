@@ -1,0 +1,305 @@
+Region,Gender,Type,Organ,Count
+Pacific,Male,Recovered Per Donor,All,3.675555556
+Pacific,Female,Recovered Per Donor,All,3.498855835
+Northeast,Male,Recovered Per Donor,All,3.376794258
+Northeast,Female,Recovered Per Donor,All,3.222222222
+Rocky Mountains,Male,Recovered Per Donor,All,3.56
+Rocky Mountains,Female,Recovered Per Donor,All,3.333333333
+Southwest,Male,Recovered Per Donor,All,3.392592593
+Southwest,Female,Recovered Per Donor,All,3.382113821
+Southeast,Male,Recovered Per Donor,All,3.617379117
+Southeast,Female,Recovered Per Donor,All,3.414863594
+Midwest,Male,Recovered Per Donor,All,3.538461538
+Midwest,Female,Recovered Per Donor,All,3.550445104
+Hawaii,Male,Recovered Per Donor,All,2.736842105
+Hawaii,Female,Recovered Per Donor,All,2.736842105
+Puerto Rico,Male,Recovered Per Donor,All,3.787878788
+Puerto Rico,Female,Recovered Per Donor,All,2.794871795
+Pacific,All Genders,Recovered Per Donor,All,3.606115108
+Northeast,All Genders,Recovered Per Donor,All,3.316752012
+Rocky Mountains,All Genders,Recovered Per Donor,All,3.492
+Southwest,All Genders,Recovered Per Donor,All,3.384920635
+Southeast,All Genders,Recovered Per Donor,All,3.530923695
+Midwest,All Genders,Recovered Per Donor,All,3.543398533
+Hawaii,All Genders,Recovered Per Donor,All,2.736842105
+Puerto Rico,All Genders,Recovered Per Donor,All,3.419047619
+Pacific,All Genders,Transplanted Per Donor,All,3.202338129
+Northeast,All Genders,Transplanted Per Donor,All,2.689100219
+Rocky Mountains,All Genders,Transplanted Per Donor,All,3.088
+Southwest,All Genders,Transplanted Per Donor,All,2.843253968
+Southeast,All Genders,Transplanted Per Donor,All,3.025702811
+Midwest,All Genders,Transplanted Per Donor,All,3.072738386
+Hawaii,All Genders,Transplanted Per Donor,All,2.035087719
+Puerto Rico,All Genders,Transplanted Per Donor,All,2.79047619
+Pacific,Male,Transplanted Per Donor,All,3.281481481
+Pacific,Female,Transplanted Per Donor,All,3.080091533
+Northeast,Male,Transplanted Per Donor,All,2.782296651
+Northeast,Female,Transplanted Per Donor,All,2.542372881
+Rocky Mountains,Male,Transplanted Per Donor,All,3.114285714
+Rocky Mountains,Female,Transplanted Per Donor,All,3.026666667
+Southwest,Male,Transplanted Per Donor,All,2.851851852
+Southwest,Female,Transplanted Per Donor,All,2.840108401
+Southeast,Male,Transplanted Per Donor,All,3.166082691
+Southeast,Female,Transplanted Per Donor,All,2.837253057
+Midwest,Male,Transplanted Per Donor,All,3.086278586
+Midwest,Female,Transplanted Per Donor,All,3.053412463
+Hawaii,Male,Transplanted Per Donor,All,2.078947368
+Hawaii,Female,Transplanted Per Donor,All,1.947368421
+Puerto Rico,Male,Transplanted Per Donor,All,3.121212121
+Puerto Rico,Female,Transplanted Per Donor,All,2.230769231
+Pacific,Male,Donors,All,675
+Pacific,Female,Donors,All,437
+Northeast,Male,Donors,All,836
+Northeast,Female,Donors,All,531
+Rocky Mountains,Male,Donors,All,175
+Rocky Mountains,Female,Donors,All,75
+Southwest,Male,Donors,All,135
+Southwest,Female,Donors,All,369
+Southeast,Male,Donors,All,1427
+Southeast,Female,Donors,All,1063
+Midwest,Male,Donors,All,962
+Midwest,Female,Donors,All,674
+Hawaii,Male,Donors,All,38
+Hawaii,Female,Donors,All,19
+Puerto Rico,Male,Donors,All,66
+Puerto Rico,Female,Donors,All,39
+Pacific,Male,Recovered,All,2481
+Pacific,Female,Recovered,All,1529
+Northeast,Male,Recovered,All,2823
+Northeast,Female,Recovered,All,1711
+Rocky Mountains,Male,Recovered,All,623
+Rocky Mountains,Female,Recovered,All,250
+Southwest,Male,Recovered,All,458
+Southwest,Female,Recovered,All,1248
+Southeast,Male,Recovered,All,5162
+Southeast,Female,Recovered,All,3630
+Midwest,Male,Recovered,All,3404
+Midwest,Female,Recovered,All,2393
+Hawaii,Male,Recovered,All,104
+Hawaii,Female,Recovered,All,52
+Puerto Rico,Male,Recovered,All,250
+Puerto Rico,Female,Recovered,All,109
+Pacific,Male,Recovered,Kidney,1290
+Pacific,Female,Recovered,Kidney,825
+Northeast,Male,Recovered,Kidney,1490
+Northeast,Female,Recovered,Kidney,939
+Rocky Mountains,Male,Recovered,Kidney,335
+Rocky Mountains,Female,Recovered,Kidney,143
+Southwest,Male,Recovered,Kidney,257
+Southwest,Female,Recovered,Kidney,641
+Southeast,Male,Recovered,Kidney,2538
+Southeast,Female,Recovered,Kidney,1884
+Midwest,Male,Recovered,Kidney,1754
+Midwest,Female,Recovered,Kidney,1252
+Hawaii,Male,Recovered,Kidney,74
+Hawaii,Female,Recovered,Kidney,36
+Puerto Rico,Male,Recovered,Kidney,119
+Puerto Rico,Female,Recovered,Kidney,65
+Pacific,Male,Recovered,Pancreas,130
+Pacific,Female,Recovered,Pancreas,62
+Northeast,Male,Recovered,Pancreas,152
+Northeast,Female,Recovered,Pancreas,51
+Rocky Mountains,Male,Recovered,Pancreas,36
+Rocky Mountains,Female,Recovered,Pancreas,10
+Southwest,Male,Recovered,Pancreas,31
+Southwest,Female,Recovered,Pancreas,94
+Southeast,Male,Recovered,Pancreas,330
+Southeast,Female,Recovered,Pancreas,155
+Midwest,Male,Recovered,Pancreas,269
+Midwest,Female,Recovered,Pancreas,152
+Hawaii,Male,Recovered,Pancreas,7
+Hawaii,Female,Recovered,Pancreas,1
+Puerto Rico,Male,Recovered,Pancreas,17
+Puerto Rico,Female,Recovered,Pancreas,16
+Pacific,Male,Recovered,Liver,523
+Pacific,Female,Recovered,Liver,350
+Northeast,Male,Recovered,Liver,681
+Northeast,Female,Recovered,Liver,432
+Rocky Mountains,Male,Recovered,Liver,134
+Rocky Mountains,Female,Recovered,Liver,55
+Southwest,Male,Recovered,Liver,111
+Southwest,Female,Recovered,Liver,297
+Southeast,Male,Recovered,Liver,1232
+Southeast,Female,Recovered,Liver,914
+Midwest,Male,Recovered,Liver,750
+Midwest,Female,Recovered,Liver,533
+Hawaii,Male,Recovered,Liver,23
+Hawaii,Female,Recovered,Liver,11
+Puerto Rico,Male,Recovered,Liver,57
+Puerto Rico,Female,Recovered,Liver,32
+Pacific,Male,Recovered,Intestine,3
+Pacific,Female,Recovered,Intestine,6
+Northeast,Male,Recovered,Intestine,8
+Northeast,Female,Recovered,Intestine,5
+Rocky Mountains,Male,Recovered,Intestine,5
+Rocky Mountains,Female,Recovered,Intestine,2
+Southwest,Male,Recovered,Intestine,0
+Southwest,Female,Recovered,Intestine,3
+Southeast,Male,Recovered,Intestine,20
+Southeast,Female,Recovered,Intestine,22
+Midwest,Male,Recovered,Intestine,24
+Midwest,Female,Recovered,Intestine,9
+Hawaii,Male,Recovered,Intestine,0
+Hawaii,Female,Recovered,Intestine,0
+Puerto Rico,Male,Recovered,Intestine,0
+Puerto Rico,Female,Recovered,Intestine,0
+Pacific,Male,Recovered,Heart,243
+Pacific,Female,Recovered,Heart,120
+Northeast,Male,Recovered,Heart,252
+Northeast,Female,Recovered,Heart,115
+Rocky Mountains,Male,Recovered,Heart,65
+Rocky Mountains,Female,Recovered,Heart,22
+Southwest,Male,Recovered,Heart,36
+Southwest,Female,Recovered,Heart,91
+Southeast,Male,Recovered,Heart,484
+Southeast,Female,Recovered,Heart,241
+Midwest,Male,Recovered,Heart,322
+Midwest,Female,Recovered,Heart,186
+Hawaii,Male,Recovered,Heart,0
+Hawaii,Female,Recovered,Heart,0
+Puerto Rico,Male,Recovered,Heart,22
+Puerto Rico,Female,Recovered,Heart,2
+Pacific,Male,Recovered,Lungs,303
+Pacific,Female,Recovered,Lungs,170
+Northeast,Male,Recovered,Lungs,240
+Northeast,Female,Recovered,Lungs,169
+Rocky Mountains,Male,Recovered,Lungs,50
+Rocky Mountains,Female,Recovered,Lungs,22
+Southwest,Male,Recovered,Lungs,34
+Southwest,Female,Recovered,Lungs,170
+Southeast,Male,Recovered,Lungs,600
+Southeast,Female,Recovered,Lungs,425
+Midwest,Male,Recovered,Lungs,307
+Midwest,Female,Recovered,Lungs,269
+Hawaii,Male,Recovered,Lungs,0
+Hawaii,Female,Recovered,Lungs,4
+Puerto Rico,Male,Recovered,Lungs,36
+Puerto Rico,Female,Recovered,Lungs,9
+Pacific,Male,Transplanted,All,2215
+Pacific,Female,Transplanted,All,1346
+Northeast,Male,Transplanted,All,2326
+Northeast,Female,Transplanted,All,1350
+Rocky Mountains,Male,Transplanted,All,545
+Rocky Mountains,Female,Transplanted,All,227
+Southwest,Male,Transplanted,All,385
+Southwest,Female,Transplanted,All,1048
+Southeast,Male,Transplanted,All,4518
+Southeast,Female,Transplanted,All,3016
+Midwest,Male,Transplanted,All,2969
+Midwest,Female,Transplanted,All,2058
+Hawaii,Male,Transplanted,All,79
+Hawaii,Female,Transplanted,All,37
+Puerto Rico,Male,Transplanted,All,206
+Puerto Rico,Female,Transplanted,All,87
+Pacific,Male,Transplanted,Kidney,1115
+Pacific,Female,Transplanted,Kidney,716
+Northeast,Male,Transplanted,Kidney,1216
+Northeast,Female,Transplanted,Kidney,701
+Rocky Mountains,Male,Transplanted,Kidney,290
+Rocky Mountains,Female,Transplanted,Kidney,124
+Southwest,Male,Transplanted,Kidney,208
+Southwest,Female,Transplanted,Kidney,487
+Southeast,Male,Transplanted,Kidney,2097
+Southeast,Female,Transplanted,Kidney,1425
+Midwest,Male,Transplanted,Kidney,1455
+Midwest,Female,Transplanted,Kidney,1002
+Hawaii,Male,Transplanted,Kidney,59
+Hawaii,Female,Transplanted,Kidney,25
+Puerto Rico,Male,Transplanted,Kidney,87
+Puerto Rico,Female,Transplanted,Kidney,47
+Pacific,Male,Transplanted,Pancreas,95
+Pacific,Female,Transplanted,Pancreas,41
+Northeast,Male,Transplanted,Pancreas,96
+Northeast,Female,Transplanted,Pancreas,30
+Rocky Mountains,Male,Transplanted,Pancreas,28
+Rocky Mountains,Female,Transplanted,Pancreas,5
+Southwest,Male,Transplanted,Pancreas,15
+Southwest,Female,Transplanted,Pancreas,35
+Southeast,Male,Transplanted,Pancreas,222
+Southeast,Female,Transplanted,Pancreas,100
+Midwest,Male,Transplanted,Pancreas,187
+Midwest,Female,Transplanted,Pancreas,109
+Hawaii,Male,Transplanted,Pancreas,5
+Hawaii,Female,Transplanted,Pancreas,1
+Puerto Rico,Male,Transplanted,Pancreas,14
+Puerto Rico,Female,Transplanted,Pancreas,1
+Pacific,Male,Transplanted,Liver,461
+Pacific,Female,Transplanted,Liver,300
+Northeast,Male,Transplanted,Liver,580
+Northeast,Female,Transplanted,Liver,359
+Rocky Mountains,Male,Transplanted,Liver,112
+Rocky Mountains,Female,Transplanted,Liver,52
+Southwest,Male,Transplanted,Liver,92
+Southwest,Female,Transplanted,Liver,266
+Southeast,Male,Transplanted,Liver,1132
+Southeast,Female,Transplanted,Liver,837
+Midwest,Male,Transplanted,Liver,686
+Midwest,Female,Transplanted,Liver,489
+Hawaii,Male,Transplanted,Liver,15
+Hawaii,Female,Transplanted,Liver,7
+Puerto Rico,Male,Transplanted,Liver,56
+Puerto Rico,Female,Transplanted,Liver,28
+Pacific,Male,Transplanted,Intestine,3
+Pacific,Female,Transplanted,Intestine,5
+Northeast,Male,Transplanted,Intestine,8
+Northeast,Female,Transplanted,Intestine,5
+Rocky Mountains,Male,Transplanted,Intestine,5
+Rocky Mountains,Female,Transplanted,Intestine,2
+Southwest,Male,Transplanted,Intestine,0
+Southwest,Female,Transplanted,Intestine,3
+Southeast,Male,Transplanted,Intestine,18
+Southeast,Female,Transplanted,Intestine,21
+Midwest,Male,Transplanted,Intestine,21
+Midwest,Female,Transplanted,Intestine,9
+Hawaii,Male,Transplanted,Intestine,0
+Hawaii,Female,Transplanted,Intestine,0
+Puerto Rico,Male,Transplanted,Intestine,0
+Puerto Rico,Female,Transplanted,Intestine,0
+Pacific,Male,Transplanted,Heart,242
+Pacific,Female,Transplanted,Heart,117
+Northeast,Male,Transplanted,Heart,244
+Northeast,Female,Transplanted,Heart,112
+Rocky Mountains,Male,Transplanted,Heart,64
+Rocky Mountains,Female,Transplanted,Heart,22
+Southwest,Male,Transplanted,Heart,36
+Southwest,Female,Transplanted,Heart,91
+Southeast,Male,Transplanted,Heart,480
+Southeast,Female,Transplanted,Heart,234
+Midwest,Male,Transplanted,Heart,321
+Midwest,Female,Transplanted,Heart,185
+Hawaii,Male,Transplanted,Heart,0
+Hawaii,Female,Transplanted,Heart,0
+Puerto Rico,Male,Transplanted,Heart,22
+Puerto Rico,Female,Transplanted,Heart,2
+Pacific,Male,Transplanted,Lungs,299
+Pacific,Female,Transplanted,Lungs,167
+Northeast,Male,Transplanted,Lungs,182
+Northeast,Female,Transplanted,Lungs,143
+Rocky Mountains,Male,Transplanted,Lungs,46
+Rocky Mountains,Female,Transplanted,Lungs,22
+Southwest,Male,Transplanted,Lungs,34
+Southwest,Female,Transplanted,Lungs,166
+Southeast,Male,Transplanted,Lungs,569
+Southeast,Female,Transplanted,Lungs,399
+Midwest,Male,Transplanted,Lungs,299
+Midwest,Female,Transplanted,Lungs,264
+Hawaii,Male,Transplanted,Lungs,0
+Hawaii,Female,Transplanted,Lungs,4
+Puerto Rico,Male,Transplanted,Lungs,27
+Puerto Rico,Female,Transplanted,Lungs,9
+Pacific,Male,EstPop,All,24265837
+Pacific,Female,EstPop,All,24529160
+Northeast,Male,EstPop,All,25022768
+Northeast,Female,EstPop,All,26422649
+Rocky Mountains,Male,EstPop,All,5429014
+Rocky Mountains,Female,EstPop,All,4004088
+Southwest,Male,EstPop,All,5774279
+Southwest,Female,EstPop,All,19384001
+Southeast,Male,EstPop,All,41314675
+Southeast,Female,EstPop,All,43289008
+Midwest,Male,EstPop,All,29429578
+Midwest,Female,EstPop,All,30331933
+Hawaii,Male,EstPop,All,700502
+Hawaii,Female,EstPop,All,689588
+Puerto Rico,Male,EstPop,All,3725789
+Puerto Rico,Female,EstPop,All,3725789

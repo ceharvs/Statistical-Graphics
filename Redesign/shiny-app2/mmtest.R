@@ -33,14 +33,3 @@ confidentClass3WayMap(df,refRegion=FALSE,
                       colLab="Mathematics Grade 4",
                       colorLab="Reading Grade 8",
                       title="2009 State Average NAEP Scores As Compared to Virginia")
-
-library(micromapST) # has state boundary files
-df<- read.csv("data/mmdatav2.csv")
-source("panelFunctions.r")
-source("confidentClass3WayMap.r")
-
-newdata <- df[ which(df$Gender=='All Genders' 
-                     & df$Organ == "All"
-                     & df$Type == "Donors"), c(1,5)]
-
-mydata <- data.frame(newdata[,2],row.names=newdata[,1])
